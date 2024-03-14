@@ -1,0 +1,866 @@
+Mar 23 16:03:08 10.71.61.0 u490724583 Connection from 10.71.61.0 port 40210 on 74.208.58.218 port 22
+Mar 23 16:03:11 10.71.61.0 u490724583 Accepted password for u490724583 from 10.71.61.0 port 40210 ssh2
+Mar 23 16:03:11 10.71.61.0 u490724583 Starting session: subsystem 'sftp' for u490724583 from 10.71.61.0 port 40210 id 0
+Mar 23 16:03:11 10.71.61.0 u490724583 session opened for local user u490724583 from [10.71.61.0]
+Mar 23 16:03:56 10.71.61.0 u490724583 Connection from 10.71.61.0 port 37230 on 74.208.58.218 port 22
+Mar 23 16:03:56 10.71.61.0 u490724583 Accepted password for u490724583 from 10.71.61.0 port 37230 ssh2
+Mar 23 16:03:56 10.71.61.0 u490724583 Connection from 10.71.61.0 port 37232 on 74.208.58.218 port 22
+Mar 23 16:03:56 10.71.61.0 u490724583 Accepted password for u490724583 from 10.71.61.0 port 37232 ssh2
+Mar 23 16:03:56 10.71.61.0 u490724583 Starting session: subsystem 'sftp' for u490724583 from 10.71.61.0 port 37230 id 0
+Mar 23 16:03:56 10.71.61.0 u490724583 Starting session: subsystem 'sftp' for u490724583 from 10.71.61.0 port 37232 id 0
+Mar 23 16:03:56 10.71.61.0 u490724583 session opened for local user u490724583 from [10.71.61.0]
+Mar 23 16:03:56 10.71.61.0 u490724583 session opened for local user u490724583 from [10.71.61.0]
+Mar 23 16:03:57 10.71.61.0 u490724583 open "/catalogo.html" flags READ mode 0666
+Mar 23 16:03:57 10.71.61.0 u490724583 open "/contacto.html" flags READ mode 0666
+Mar 23 16:03:57 10.71.61.0 u490724583 close "/contacto.html" bytes read 31524 written 0
+Mar 23 16:03:57 10.71.61.0 u490724583 [10.71.61.0|get|0|31524|0|0|0|2f636f6e746163746f2e68746d6c|]
+Mar 23 16:03:57 10.71.61.0 u490724583 open "/edificio.html" flags READ mode 0666
+Mar 23 16:03:58 10.71.61.0 u490724583 close "/edificio.html" bytes read 22719 written 0
+Mar 23 16:03:58 10.71.61.0 u490724583 [10.71.61.0|get|1|22719|0|0|0|2f656469666963696f2e68746d6c|]
+Mar 23 16:03:58 10.71.61.0 u490724583 close "/catalogo.html" bytes read 7900664 written 0
+Mar 23 16:03:58 10.71.61.0 u490724583 [10.71.61.0|get|1|7900664|0|0|0|2f636174616c6f676f2e68746d6c|]
+Mar 23 16:03:58 10.71.61.0 u490724583 open "/extracurricular.html" flags READ mode 0666
+Mar 23 16:03:58 10.71.61.0 u490724583 open "/galeria.html" flags READ mode 0666
+Mar 23 16:03:58 10.71.61.0 u490724583 close "/extracurricular.html" bytes read 25377 written 0
+Mar 23 16:03:58 10.71.61.0 u490724583 [10.71.61.0|get|0|25377|0|0|0|2f6578747261637572726963756c61722e68746d6c|]
+Mar 23 16:03:58 10.71.61.0 u490724583 close "/galeria.html" bytes read 47333 written 0
+Mar 23 16:03:58 10.71.61.0 u490724583 [10.71.61.0|get|0|47333|0|0|0|2f67616c657269612e68746d6c|]
+Mar 23 16:03:58 10.71.61.0 u490724583 open "/index-alt.html" flags READ mode 0666
+Mar 23 16:03:59 10.71.61.0 u490724583 open "/index-alt2.html" flags READ mode 0666
+Mar 23 16:03:59 10.71.61.0 u490724583 close "/index-alt.html" bytes read 33400 written 0
+Mar 23 16:03:59 10.71.61.0 u490724583 [10.71.61.0|get|1|33400|0|0|0|2f696e6465782d616c742e68746d6c|]
+Mar 23 16:03:59 10.71.61.0 u490724583 close "/index-alt2.html" bytes read 27724 written 0
+Mar 23 16:03:59 10.71.61.0 u490724583 [10.71.61.0|get|0|27724|0|0|0|2f696e6465782d616c74322e68746d6c|]
+Mar 23 16:03:59 10.71.61.0 u490724583 open "/index.html" flags READ mode 0666
+Mar 23 16:03:59 10.71.61.0 u490724583 open "/instructoriamusica.html" flags READ mode 0666
+Mar 23 16:03:59 10.71.61.0 u490724583 close "/index.html" bytes read 37269 written 0
+Mar 23 16:03:59 10.71.61.0 u490724583 [10.71.61.0|get|0|37269|0|0|0|2f696e6465782e68746d6c|]
+Mar 23 16:03:59 10.71.61.0 u490724583 close "/instructoriamusica.html" bytes read 35700 written 0
+Mar 23 16:03:59 10.71.61.0 u490724583 [10.71.61.0|get|0|35700|0|0|0|2f696e7374727563746f7269616d75736963612e68746d6c|]
+Mar 23 16:03:59 10.71.61.0 u490724583 open "/introduccion.html" flags READ mode 0666
+Mar 23 16:03:59 10.71.61.0 u490724583 open "/licenciaturamusica.html" flags READ mode 0666
+Mar 23 16:04:00 10.71.61.0 u490724583 close "/introduccion.html" bytes read 24208 written 0
+Mar 23 16:04:00 10.71.61.0 u490724583 [10.71.61.0|get|1|24208|0|0|0|2f696e74726f64756363696f6e2e68746d6c|]
+Mar 23 16:04:00 10.71.61.0 u490724583 close "/licenciaturamusica.html" bytes read 43258 written 0
+Mar 23 16:04:00 10.71.61.0 u490724583 [10.71.61.0|get|1|43258|0|0|0|2f6c6963656e636961747572616d75736963612e68746d6c|]
+Mar 23 16:04:00 10.71.61.0 u490724583 open "/licgestion.html" flags READ mode 0666
+Mar 23 16:04:00 10.71.61.0 u490724583 open "/maestriagestion.html" flags READ mode 0666
+Mar 23 16:04:00 10.71.61.0 u490724583 close "/maestriagestion.html" bytes read 32262 written 0
+Mar 23 16:04:00 10.71.61.0 u490724583 [10.71.61.0|get|0|32262|0|0|0|2f6d6165737472696167657374696f6e2e68746d6c|]
+Mar 23 16:04:00 10.71.61.0 u490724583 close "/licgestion.html" bytes read 33343 written 0
+Mar 23 16:04:00 10.71.61.0 u490724583 [10.71.61.0|get|0|33343|0|0|0|2f6c696367657374696f6e2e68746d6c|]
+Mar 23 16:04:00 10.71.61.0 u490724583 open "/nav-container.html" flags READ mode 0666
+Mar 23 16:04:00 10.71.61.0 u490724583 open "/practicas-institucionales.html" flags READ mode 0666
+Mar 23 16:04:01 10.71.61.0 u490724583 close "/nav-container.html" bytes read 14626 written 0
+Mar 23 16:04:01 10.71.61.0 u490724583 [10.71.61.0|get|1|14626|0|0|0|2f6e61762d636f6e7461696e65722e68746d6c|]
+Mar 23 16:04:01 10.71.61.0 u490724583 close "/practicas-institucionales.html" bytes read 25978 written 0
+Mar 23 16:04:01 10.71.61.0 u490724583 [10.71.61.0|get|1|25978|0|0|0|2f7072616374696361732d696e737469747563696f6e616c65732e68746d6c|]
+Mar 23 16:04:01 10.71.61.0 u490724583 open "/practicas-profesionales.html" flags READ mode 0666
+Mar 23 16:04:01 10.71.61.0 u490724583 open "/reglamentos.html" flags READ mode 0666
+Mar 23 16:04:01 10.71.61.0 u490724583 close "/practicas-profesionales.html" bytes read 25800 written 0
+Mar 23 16:04:01 10.71.61.0 u490724583 [10.71.61.0|get|0|25800|0|0|0|2f7072616374696361732d70726f666573696f6e616c65732e68746d6c|]
+Mar 23 16:04:01 10.71.61.0 u490724583 close "/reglamentos.html" bytes read 23134 written 0
+Mar 23 16:04:01 10.71.61.0 u490724583 [10.71.61.0|get|0|23134|0|0|0|2f7265676c616d656e746f732e68746d6c|]
+Mar 23 16:04:01 10.71.61.0 u490724583 open "/segurosocial.html" flags READ mode 0666
+Mar 23 16:04:01 10.71.61.0 u490724583 open "/semanavirtual.html" flags READ mode 0666
+Mar 23 16:04:02 10.71.61.0 u490724583 close "/segurosocial.html" bytes read 25725 written 0
+Mar 23 16:04:02 10.71.61.0 u490724583 [10.71.61.0|get|1|25725|0|0|0|2f73656775726f736f6369616c2e68746d6c|]
+Mar 23 16:04:02 10.71.61.0 u490724583 close "/semanavirtual.html" bytes read 23390 written 0
+Mar 23 16:04:02 10.71.61.0 u490724583 [10.71.61.0|get|1|23390|0|0|0|2f73656d616e617669727475616c2e68746d6c|]
+Mar 23 16:04:02 10.71.61.0 u490724583 open "/serviciosocial.html" flags READ mode 0666
+Mar 23 16:04:02 10.71.61.0 u490724583 open "/talleres.html" flags READ mode 0666
+Mar 23 16:04:02 10.71.61.0 u490724583 close "/serviciosocial.html" bytes read 22952 written 0
+Mar 23 16:04:02 10.71.61.0 u490724583 [10.71.61.0|get|0|22952|0|0|0|2f736572766963696f736f6369616c2e68746d6c|]
+Mar 23 16:04:02 10.71.61.0 u490724583 close "/talleres.html" bytes read 26357 written 0
+Mar 23 16:04:02 10.71.61.0 u490724583 [10.71.61.0|get|0|26357|0|0|0|2f74616c6c657265732e68746d6c|]
+Mar 23 16:04:02 10.71.61.0 u490724583 open "/css/lightbox.min.css" flags READ mode 0666
+Mar 23 16:04:03 10.71.61.0 u490724583 open "/css/ytplayer.css" flags READ mode 0666
+Mar 23 16:04:03 10.71.61.0 u490724583 close "/css/lightbox.min.css" bytes read 2997 written 0
+Mar 23 16:04:03 10.71.61.0 u490724583 [10.71.61.0|get|1|2997|0|0|0|2f6373732f6c69676874626f782e6d696e2e637373|]
+Mar 23 16:04:03 10.71.61.0 u490724583 close "/css/ytplayer.css" bytes read 6302 written 0
+Mar 23 16:04:03 10.71.61.0 u490724583 [10.71.61.0|get|0|6302|0|0|0|2f6373732f7974706c617965722e637373|]
+Mar 23 16:04:03 10.71.61.0 u490724583 open "/css/theme-orange.css" flags READ mode 0666
+Mar 23 16:04:03 10.71.61.0 u490724583 open "/css/pe-icon-7-stroke.css" flags READ mode 0666
+Mar 23 16:04:03 10.71.61.0 u490724583 close "/css/theme-orange.css" bytes read 106430 written 0
+Mar 23 16:04:03 10.71.61.0 u490724583 [10.71.61.0|get|0|106430|0|0|0|2f6373732f7468656d652d6f72616e67652e637373|]
+Mar 23 16:04:03 10.71.61.0 u490724583 close "/css/pe-icon-7-stroke.css" bytes read 9742 written 0
+Mar 23 16:04:03 10.71.61.0 u490724583 [10.71.61.0|get|0|9742|0|0|0|2f6373732f70652d69636f6e2d372d7374726f6b652e637373|]
+Mar 23 16:04:03 10.71.61.0 u490724583 open "/css/font-opensans.css" flags READ mode 0666
+Mar 23 16:04:03 10.71.61.0 u490724583 open "/css/font-awesome.min.css" flags READ mode 0666
+Mar 23 16:04:04 10.71.61.0 u490724583 close "/css/font-opensans.css" bytes read 104 written 0
+Mar 23 16:04:04 10.71.61.0 u490724583 [10.71.61.0|get|1|104|0|0|0|2f6373732f666f6e742d6f70656e73616e732e637373|]
+Mar 23 16:04:04 10.71.61.0 u490724583 close "/css/font-awesome.min.css" bytes read 23776 written 0
+Mar 23 16:04:04 10.71.61.0 u490724583 [10.71.61.0|get|1|23776|0|0|0|2f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Mar 23 16:04:04 10.71.61.0 u490724583 open "/css/font-oswald.css" flags READ mode 0666
+Mar 23 16:04:04 10.71.61.0 u490724583 open "/css/et-line-icons.css" flags READ mode 0666
+Mar 23 16:04:04 10.71.61.0 u490724583 close "/css/font-oswald.css" bytes read 101 written 0
+Mar 23 16:04:04 10.71.61.0 u490724583 [10.71.61.0|get|0|101|0|0|0|2f6373732f666f6e742d6f7377616c642e637373|]
+Mar 23 16:04:04 10.71.61.0 u490724583 close "/css/et-line-icons.css" bytes read 7667 written 0
+Mar 23 16:04:04 10.71.61.0 u490724583 [10.71.61.0|get|0|7667|0|0|0|2f6373732f65742d6c696e652d69636f6e732e637373|]
+Mar 23 16:04:04 10.71.61.0 u490724583 open "/css/font-roboto.css" flags READ mode 0666
+Mar 23 16:04:04 10.71.61.0 u490724583 open "/css/font-robotocondensed.css" flags READ mode 0666
+Mar 23 16:04:04 10.71.61.0 u490724583 close "/css/font-roboto.css" bytes read 126 written 0
+Mar 23 16:04:04 10.71.61.0 u490724583 [10.71.61.0|get|0|126|0|0|0|2f6373732f666f6e742d726f626f746f2e637373|]
+Mar 23 16:04:05 10.71.61.0 u490724583 close "/css/font-robotocondensed.css" bytes read 250 written 0
+Mar 23 16:04:05 10.71.61.0 u490724583 [10.71.61.0|get|1|250|0|0|0|2f6373732f666f6e742d726f626f746f636f6e64656e7365642e637373|]
+Mar 23 16:04:05 10.71.61.0 u490724583 open "/css/themify-icons.css" flags READ mode 0666
+Mar 23 16:04:05 10.71.61.0 u490724583 open "/css/custom.css" flags READ mode 0666
+Mar 23 16:04:05 10.71.61.0 u490724583 close "/css/themify-icons.css" bytes read 16411 written 0
+Mar 23 16:04:05 10.71.61.0 u490724583 [10.71.61.0|get|0|16411|0|0|0|2f6373732f7468656d6966792d69636f6e732e637373|]
+Mar 23 16:04:05 10.71.61.0 u490724583 close "/css/custom.css" bytes read 46 written 0
+Mar 23 16:04:05 10.71.61.0 u490724583 [10.71.61.0|get|0|46|0|0|0|2f6373732f637573746f6d2e637373|]
+Mar 23 16:04:05 10.71.61.0 u490724583 open "/css/font-pathway.css" flags READ mode 0666
+Mar 23 16:04:05 10.71.61.0 u490724583 open "/css/font-georgia.css" flags READ mode 0666
+Mar 23 16:04:05 10.71.61.0 u490724583 close "/css/font-pathway.css" bytes read 205 written 0
+Mar 23 16:04:05 10.71.61.0 u490724583 [10.71.61.0|get|0|205|0|0|0|2f6373732f666f6e742d706174687761792e637373|]
+Mar 23 16:04:06 10.71.61.0 u490724583 close "/css/font-georgia.css" bytes read 88 written 0
+Mar 23 16:04:06 10.71.61.0 u490724583 [10.71.61.0|get|1|88|0|0|0|2f6373732f666f6e742d67656f726769612e637373|]
+Mar 23 16:04:06 10.71.61.0 u490724583 open "/css/font-montserrat.css" flags READ mode 0666
+Mar 23 16:04:06 10.71.61.0 u490724583 open "/css/font-titillium.css" flags READ mode 0666
+Mar 23 16:04:06 10.71.61.0 u490724583 close "/css/font-montserrat.css" bytes read 111 written 0
+Mar 23 16:04:06 10.71.61.0 u490724583 [10.71.61.0|get|0|111|0|0|0|2f6373732f666f6e742d6d6f6e747365727261742e637373|]
+Mar 23 16:04:06 10.71.61.0 u490724583 close "/css/font-titillium.css" bytes read 108 written 0
+Mar 23 16:04:06 10.71.61.0 u490724583 [10.71.61.0|get|0|108|0|0|0|2f6373732f666f6e742d746974696c6c69756d2e637373|]
+Mar 23 16:04:06 10.71.61.0 u490724583 open "/css/font-dosis.css" flags READ mode 0666
+Mar 23 16:04:06 10.71.61.0 u490724583 open "/css/bootstrap.css" flags READ mode 0666
+Mar 23 16:04:06 10.71.61.0 u490724583 close "/css/font-dosis.css" bytes read 100 written 0
+Mar 23 16:04:06 10.71.61.0 u490724583 [10.71.61.0|get|0|100|0|0|0|2f6373732f666f6e742d646f7369732e637373|]
+Mar 23 16:04:07 10.71.61.0 u490724583 open "/css/flexslider.css" flags READ mode 0666
+Mar 23 16:04:07 10.71.61.0 u490724583 close "/css/bootstrap.css" bytes read 147430 written 0
+Mar 23 16:04:07 10.71.61.0 u490724583 [10.71.61.0|get|1|147430|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Mar 23 16:04:07 10.71.61.0 u490724583 close "/css/flexslider.css" bytes read 6298 written 0
+Mar 23 16:04:07 10.71.61.0 u490724583 [10.71.61.0|get|0|6298|0|0|0|2f6373732f666c6578736c696465722e637373|]
+Mar 23 16:04:07 10.71.61.0 u490724583 open "/css/font-poppins.css" flags READ mode 0666
+Mar 23 16:04:07 10.71.61.0 u490724583 open "/css/theme.css" flags READ mode 0666
+Mar 23 16:04:07 10.71.61.0 u490724583 close "/css/font-poppins.css" bytes read 108 written 0
+Mar 23 16:04:07 10.71.61.0 u490724583 [10.71.61.0|get|0|108|0|0|0|2f6373732f666f6e742d706f7070696e732e637373|]
+Mar 23 16:04:07 10.71.61.0 u490724583 close "/css/theme.css" bytes read 106429 written 0
+Mar 23 16:04:07 10.71.61.0 u490724583 [10.71.61.0|get|0|106429|0|0|0|2f6373732f7468656d652e637373|]
+Mar 23 16:04:07 10.71.61.0 u490724583 open "/css/bootstrap.min.css" flags READ mode 0666
+Mar 23 16:04:08 10.71.61.0 u490724583 close "/css/bootstrap.min.css" bytes read 122540 written 0
+Mar 23 16:04:08 10.71.61.0 u490724583 [10.71.61.0|get|1|122540|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Mar 23 16:04:08 10.71.61.0 u490724583 open "/css/less/theme.less" flags READ mode 0666
+Mar 23 16:04:08 10.71.61.0 u490724583 close "/css/less/theme.less" bytes read 85597 written 0
+Mar 23 16:04:08 10.71.61.0 u490724583 [10.71.61.0|get|0|85597|0|0|0|2f6373732f6c6573732f7468656d652e6c657373|]
+Mar 23 16:04:08 10.71.61.0 u490724583 open "/docs/insmusica-mapa.pdf" flags READ mode 0666
+Mar 23 16:04:08 10.71.61.0 u490724583 close "/docs/insmusica-mapa.pdf" bytes read 77592 written 0
+Mar 23 16:04:08 10.71.61.0 u490724583 [10.71.61.0|get|0|77592|0|0|0|2f646f63732f696e736d75736963612d6d6170612e706466|]
+Mar 23 16:04:08 10.71.61.0 u490724583 open "/docs/maestria-egreso.pdf" flags READ mode 0666
+Mar 23 16:04:08 10.71.61.0 u490724583 open "/docs/insmusica-ingreso.pdf" flags READ mode 0666
+Mar 23 16:04:09 10.71.61.0 u490724583 close "/docs/maestria-egreso.pdf" bytes read 275036 written 0
+Mar 23 16:04:09 10.71.61.0 u490724583 [10.71.61.0|get|1|275036|0|0|0|2f646f63732f6d616573747269612d65677265736f2e706466|]
+Mar 23 16:04:09 10.71.61.0 u490724583 close "/docs/insmusica-ingreso.pdf" bytes read 74702 written 0
+Mar 23 16:04:09 10.71.61.0 u490724583 [10.71.61.0|get|1|74702|0|0|0|2f646f63732f696e736d75736963612d696e677265736f2e706466|]
+Mar 23 16:04:09 10.71.61.0 u490724583 open "/docs/licmusica.pdf" flags READ mode 0666
+Mar 23 16:04:09 10.71.61.0 u490724583 open "/docs/Informe2017.pdf" flags READ mode 0666
+Mar 23 16:04:09 10.71.61.0 u490724583 close "/docs/licmusica.pdf" bytes read 88686 written 0
+Mar 23 16:04:09 10.71.61.0 u490724583 [10.71.61.0|get|0|88686|0|0|0|2f646f63732f6c69636d75736963612e706466|]
+Mar 23 16:04:09 10.71.61.0 u490724583 open "/docs/modeloeducativo.pdf" flags READ mode 0666
+Mar 23 16:04:09 10.71.61.0 u490724583 close "/docs/Informe2017.pdf" bytes read 690208 written 0
+Mar 23 16:04:09 10.71.61.0 u490724583 [10.71.61.0|get|0|690208|0|0|0|2f646f63732f496e666f726d65323031372e706466|]
+Mar 23 16:04:10 10.71.61.0 u490724583 close "/docs/modeloeducativo.pdf" bytes read 651027 written 0
+Mar 23 16:04:10 10.71.61.0 u490724583 [10.71.61.0|get|1|651027|0|0|0|2f646f63732f6d6f64656c6f65647563617469766f2e706466|]
+Mar 23 16:04:10 10.71.61.0 u490724583 open "/docs/licgestion-egreso.pdf" flags READ mode 0666
+Mar 23 16:04:10 10.71.61.0 u490724583 open "/docs/licgestion.pdf" flags READ mode 0666
+Mar 23 16:04:10 10.71.61.0 u490724583 close "/docs/licgestion-egreso.pdf" bytes read 72664 written 0
+Mar 23 16:04:10 10.71.61.0 u490724583 [10.71.61.0|get|0|72664|0|0|0|2f646f63732f6c696367657374696f6e2d65677265736f2e706466|]
+Mar 23 16:04:10 10.71.61.0 u490724583 close "/docs/licgestion.pdf" bytes read 89171 written 0
+Mar 23 16:04:10 10.71.61.0 u490724583 [10.71.61.0|get|0|89171|0|0|0|2f646f63732f6c696367657374696f6e2e706466|]
+Mar 23 16:04:10 10.71.61.0 u490724583 open "/docs/insmusica-egreso.pdf" flags READ mode 0666
+Mar 23 16:04:10 10.71.61.0 u490724583 open "/docs/licgestion-ingreso.pdf" flags READ mode 0666
+Mar 23 16:04:10 10.71.61.0 u490724583 close "/docs/insmusica-egreso.pdf" bytes read 73855 written 0
+Mar 23 16:04:10 10.71.61.0 u490724583 [10.71.61.0|get|0|73855|0|0|0|2f646f63732f696e736d75736963612d65677265736f2e706466|]
+Mar 23 16:04:10 10.71.61.0 u490724583 close "/docs/licgestion-ingreso.pdf" bytes read 72851 written 0
+Mar 23 16:04:10 10.71.61.0 u490724583 [10.71.61.0|get|0|72851|0|0|0|2f646f63732f6c696367657374696f6e2d696e677265736f2e706466|]
+Mar 23 16:04:11 10.71.61.0 u490724583 open "/docs/insmusica.pdf" flags READ mode 0666
+Mar 23 16:04:11 10.71.61.0 u490724583 open "/docs/maesgestion-mapa.pdf" flags READ mode 0666
+Mar 23 16:04:11 10.71.61.0 u490724583 close "/docs/insmusica.pdf" bytes read 92585 written 0
+Mar 23 16:04:11 10.71.61.0 u490724583 [10.71.61.0|get|0|92585|0|0|0|2f646f63732f696e736d75736963612e706466|]
+Mar 23 16:04:11 10.71.61.0 u490724583 close "/docs/maesgestion-mapa.pdf" bytes read 276385 written 0
+Mar 23 16:04:11 10.71.61.0 u490724583 [10.71.61.0|get|0|276385|0|0|0|2f646f63732f6d61657367657374696f6e2d6d6170612e706466|]
+Mar 23 16:04:11 10.71.61.0 u490724583 open "/docs/.DS_Store" flags READ mode 0666
+Mar 23 16:04:11 10.71.61.0 u490724583 open "/docs/licmusica-mapa.pdf" flags READ mode 0666
+Mar 23 16:04:11 10.71.61.0 u490724583 close "/docs/.DS_Store" bytes read 8196 written 0
+Mar 23 16:04:11 10.71.61.0 u490724583 [10.71.61.0|get|0|8196|0|0|0|2f646f63732f2e44535f53746f7265|]
+Mar 23 16:04:11 10.71.61.0 u490724583 close "/docs/licmusica-mapa.pdf" bytes read 79585 written 0
+Mar 23 16:04:11 10.71.61.0 u490724583 [10.71.61.0|get|0|79585|0|0|0|2f646f63732f6c69636d75736963612d6d6170612e706466|]
+Mar 23 16:04:11 10.71.61.0 u490724583 open "/docs/calendarios.pdf" flags READ mode 0666
+Mar 23 16:04:12 10.71.61.0 u490724583 open "/docs/licgestion-mapa.pdf" flags READ mode 0666
+Mar 23 16:04:12 10.71.61.0 u490724583 close "/docs/licgestion-mapa.pdf" bytes read 77774 written 0
+Mar 23 16:04:12 10.71.61.0 u490724583 [10.71.61.0|get|0|77774|0|0|0|2f646f63732f6c696367657374696f6e2d6d6170612e706466|]
+Mar 23 16:04:12 10.71.61.0 u490724583 close "/docs/calendarios.pdf" bytes read 2232664 written 0
+Mar 23 16:04:12 10.71.61.0 u490724583 [10.71.61.0|get|1|2232664|0|0|0|2f646f63732f63616c656e646172696f732e706466|]
+Mar 23 16:04:12 10.71.61.0 u490724583 open "/docs/informes/2016-2017.pdf" flags READ mode 0666
+Mar 23 16:04:12 10.71.61.0 u490724583 open "/docs/informes/2014-2015.pdf" flags READ mode 0666
+Mar 23 16:04:13 10.71.61.0 u490724583 close "/docs/informes/2014-2015.pdf" bytes read 543118 written 0
+Mar 23 16:04:13 10.71.61.0 u490724583 [10.71.61.0|get|1|543118|0|0|0|2f646f63732f696e666f726d65732f323031342d323031352e706466|]
+Mar 23 16:04:13 10.71.61.0 u490724583 close "/docs/informes/2016-2017.pdf" bytes read 10422046 written 0
+Mar 23 16:04:13 10.71.61.0 u490724583 [10.71.61.0|get|1|10422046|0|0|0|2f646f63732f696e666f726d65732f323031362d323031372e706466|]
+Mar 23 16:04:13 10.71.61.0 u490724583 open "/docs/convocatorias/iniciacionartistica2021.pdf" flags READ mode 0666
+Mar 23 16:04:13 10.71.61.0 u490724583 open "/docs/convocatorias/convocatoria-maestria.pdf" flags READ mode 0666
+Mar 23 16:04:13 10.71.61.0 u490724583 close "/docs/convocatorias/iniciacionartistica2021.pdf" bytes read 483409 written 0
+Mar 23 16:04:13 10.71.61.0 u490724583 [10.71.61.0|get|0|483409|0|0|0|2f646f63732f636f6e766f6361746f726961732f696e6963696163696f6e617274697374696361323032312e706466|]
+Mar 23 16:04:13 10.71.61.0 u490724583 close "/docs/convocatorias/convocatoria-maestria.pdf" bytes read 385781 written 0
+Mar 23 16:04:13 10.71.61.0 u490724583 [10.71.61.0|get|0|385781|0|0|0|2f646f63732f636f6e766f6361746f726961732f636f6e766f6361746f7269612d6d616573747269612e706466|]
+Mar 23 16:04:14 10.71.61.0 u490724583 open "/docs/convocatorias/instructoria-musica.pdf" flags READ mode 0666
+Mar 23 16:04:14 10.71.61.0 u490724583 open "/docs/convocatorias/.DS_Store" flags READ mode 0666
+Mar 23 16:04:14 10.71.61.0 u490724583 close "/docs/convocatorias/instructoria-musica.pdf" bytes read 1221416 written 0
+Mar 23 16:04:14 10.71.61.0 u490724583 [10.71.61.0|get|0|1221416|0|0|0|2f646f63732f636f6e766f6361746f726961732f696e7374727563746f7269612d6d75736963612e706466|]
+Mar 23 16:04:14 10.71.61.0 u490724583 close "/docs/convocatorias/.DS_Store" bytes read 6148 written 0
+Mar 23 16:04:14 10.71.61.0 u490724583 [10.71.61.0|get|0|6148|0|0|0|2f646f63732f636f6e766f6361746f726961732f2e44535f53746f7265|]
+Mar 23 16:04:14 10.71.61.0 u490724583 open "/docs/convocatorias/archived/convocatoria-maestria.pdf" flags READ mode 0666
+Mar 23 16:04:14 10.71.61.0 u490724583 open "/docs/convocatorias/archived/instructoria-musica.pdf" flags READ mode 0666
+Mar 23 16:04:15 10.71.61.0 u490724583 close "/docs/convocatorias/archived/convocatoria-maestria.pdf" bytes read 119308 written 0
+Mar 23 16:04:15 10.71.61.0 u490724583 [10.71.61.0|get|1|119308|0|0|0|2f646f63732f636f6e766f6361746f726961732f61726368697665642f636f6e766f6361746f7269612d6d616573747269612e706466|]
+Mar 23 16:04:15 10.71.61.0 u490724583 close "/docs/convocatorias/archived/instructoria-musica.pdf" bytes read 336459 written 0
+Mar 23 16:04:15 10.71.61.0 u490724583 [10.71.61.0|get|1|336459|0|0|0|2f646f63732f636f6e766f6361746f726961732f61726368697665642f696e7374727563746f7269612d6d75736963612e706466|]
+Mar 23 16:04:15 10.71.61.0 u490724583 open "/docs/reglamentos/reglamento-derechos-universitarios.pdf" flags READ mode 0666
+Mar 23 16:04:15 10.71.61.0 u490724583 open "/docs/reglamentos/proyecto-tutorias.pdf" flags READ mode 0666
+Mar 23 16:04:15 10.71.61.0 u490724583 close "/docs/reglamentos/reglamento-derechos-universitarios.pdf" bytes read 1883380 written 0
+Mar 23 16:04:15 10.71.61.0 u490724583 [10.71.61.0|get|0|1883380|0|0|0|2f646f63732f7265676c616d656e746f732f7265676c616d656e746f2d6465726563686f732d756e697665727369746172696f732e706466|]
+Mar 23 16:04:15 10.71.61.0 u490724583 close "/docs/reglamentos/proyecto-tutorias.pdf" bytes read 174168 written 0
+Mar 23 16:04:15 10.71.61.0 u490724583 [10.71.61.0|get|0|174168|0|0|0|2f646f63732f7265676c616d656e746f732f70726f796563746f2d7475746f726961732e706466|]
+Mar 23 16:04:16 10.71.61.0 u490724583 open "/docs/reglamentos/reglamento-servicio-social.pdf" flags READ mode 0666
+Mar 23 16:04:16 10.71.61.0 u490724583 open "/docs/reglamentos/proyecto-asesorias.pdf" flags READ mode 0666
+Mar 23 16:04:16 10.71.61.0 u490724583 close "/docs/reglamentos/reglamento-servicio-social.pdf" bytes read 85137 written 0
+Mar 23 16:04:16 10.71.61.0 u490724583 [10.71.61.0|get|0|85137|0|0|0|2f646f63732f7265676c616d656e746f732f7265676c616d656e746f2d736572766963696f2d736f6369616c2e706466|]
+Mar 23 16:04:16 10.71.61.0 u490724583 close "/docs/reglamentos/proyecto-asesorias.pdf" bytes read 138080 written 0
+Mar 23 16:04:16 10.71.61.0 u490724583 [10.71.61.0|get|0|138080|0|0|0|2f646f63732f7265676c616d656e746f732f70726f796563746f2d617365736f726961732e706466|]
+Mar 23 16:04:16 10.71.61.0 u490724583 open "/docs/reglamentos/reglamento-ingreso-permanencia.pdf" flags READ mode 0666
+Mar 23 16:04:16 10.71.61.0 u490724583 open "/docs/reglamentos/manual-de-funciones.pdf" flags READ mode 0666
+Mar 23 16:04:16 10.71.61.0 u490724583 close "/docs/reglamentos/manual-de-funciones.pdf" bytes read 430658 written 0
+Mar 23 16:04:16 10.71.61.0 u490724583 close "/docs/reglamentos/reglamento-ingreso-permanencia.pdf" bytes read 1802677 written 0
+Mar 23 16:04:16 10.71.61.0 u490724583 [10.71.61.0|get|0|430658|0|0|0|2f646f63732f7265676c616d656e746f732f6d616e75616c2d64652d66756e63696f6e65732e706466|]
+Mar 23 16:04:16 10.71.61.0 u490724583 [10.71.61.0|get|0|1802677|0|0|0|2f646f63732f7265676c616d656e746f732f7265676c616d656e746f2d696e677265736f2d7065726d616e656e6369612e706466|]
+Mar 23 16:04:16 10.71.61.0 u490724583 open "/docs/reglamentos/reglamento-titulacion.pdf" flags READ mode 0666
+Mar 23 16:04:16 10.71.61.0 u490724583 open "/docs/reglamentos/programa-egresados.pdf" flags READ mode 0666
+Mar 23 16:04:17 10.71.61.0 u490724583 close "/docs/reglamentos/programa-egresados.pdf" bytes read 274028 written 0
+Mar 23 16:04:17 10.71.61.0 u490724583 [10.71.61.0|get|1|274028|0|0|0|2f646f63732f7265676c616d656e746f732f70726f6772616d612d656772657361646f732e706466|]
+Mar 23 16:04:17 10.71.61.0 u490724583 close "/docs/reglamentos/reglamento-titulacion.pdf" bytes read 4262197 written 0
+Mar 23 16:04:17 10.71.61.0 u490724583 [10.71.61.0|get|1|4262197|0|0|0|2f646f63732f7265676c616d656e746f732f7265676c616d656e746f2d746974756c6163696f6e2e706466|]
+Mar 23 16:04:17 10.71.61.0 u490724583 open "/docs/reglamentos/programa-formacion-integral.pdf" flags READ mode 0666
+Mar 23 16:04:17 10.71.61.0 u490724583 close "/docs/reglamentos/programa-formacion-integral.pdf" bytes read 88261 written 0
+Mar 23 16:04:17 10.71.61.0 u490724583 [10.71.61.0|get|0|88261|0|0|0|2f646f63732f7265676c616d656e746f732f70726f6772616d612d666f726d6163696f6e2d696e74656772616c2e706466|]
+Mar 23 16:04:17 10.71.61.0 u490724583 open "/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Mar 23 16:04:18 10.71.61.0 u490724583 close "/fonts/fontawesome-webfont.eot" bytes read 60767 written 0
+Mar 23 16:04:18 10.71.61.0 u490724583 [10.71.61.0|get|1|60767|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Mar 23 16:04:18 10.71.61.0 u490724583 open "/fonts/themify.woff" flags READ mode 0666
+Mar 23 16:04:18 10.71.61.0 u490724583 open "/fonts/Pe-icon-7-stroke.svg" flags READ mode 0666
+Mar 23 16:04:18 10.71.61.0 u490724583 close "/fonts/themify.woff" bytes read 56108 written 0
+Mar 23 16:04:18 10.71.61.0 u490724583 [10.71.61.0|get|0|56108|0|0|0|2f666f6e74732f7468656d6966792e776f6666|]
+Mar 23 16:04:18 10.71.61.0 u490724583 close "/fonts/Pe-icon-7-stroke.svg" bytes read 164020 written 0
+Mar 23 16:04:18 10.71.61.0 u490724583 [10.71.61.0|get|0|164020|0|0|0|2f666f6e74732f50652d69636f6e2d372d7374726f6b652e737667|]
+Mar 23 16:04:18 10.71.61.0 u490724583 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Mar 23 16:04:18 10.71.61.0 u490724583 open "/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Mar 23 16:04:18 10.71.61.0 u490724583 close "/fonts/glyphicons-halflings-regular.svg" bytes read 62927 written 0
+Mar 23 16:04:18 10.71.61.0 u490724583 [10.71.61.0|get|0|62927|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Mar 23 16:04:18 10.71.61.0 u490724583 close "/fonts/fontawesome-webfont.woff" bytes read 71508 written 0
+Mar 23 16:04:18 10.71.61.0 u490724583 [10.71.61.0|get|0|71508|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Mar 23 16:04:19 10.71.61.0 u490724583 open "/fonts/et-line.woff" flags READ mode 0666
+Mar 23 16:04:19 10.71.61.0 u490724583 open "/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Mar 23 16:04:19 10.71.61.0 u490724583 close "/fonts/et-line.woff" bytes read 55220 written 0
+Mar 23 16:04:19 10.71.61.0 u490724583 [10.71.61.0|get|0|55220|0|0|0|2f666f6e74732f65742d6c696e652e776f6666|]
+Mar 23 16:04:19 10.71.61.0 u490724583 close "/fonts/fontawesome-webfont.ttf" bytes read 122092 written 0
+Mar 23 16:04:19 10.71.61.0 u490724583 [10.71.61.0|get|0|122092|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Mar 23 16:04:19 10.71.61.0 u490724583 open "/fonts/et-line.svg" flags READ mode 0666
+Mar 23 16:04:19 10.71.61.0 u490724583 open "/fonts/themify.svg" flags READ mode 0666
+Mar 23 16:04:19 10.71.61.0 u490724583 close "/fonts/et-line.svg" bytes read 175537 written 0
+Mar 23 16:04:19 10.71.61.0 u490724583 [10.71.61.0|get|0|175537|0|0|0|2f666f6e74732f65742d6c696e652e737667|]
+Mar 23 16:04:19 10.71.61.0 u490724583 close "/fonts/themify.svg" bytes read 234269 written 0
+Mar 23 16:04:19 10.71.61.0 u490724583 [10.71.61.0|get|0|234269|0|0|0|2f666f6e74732f7468656d6966792e737667|]
+Mar 23 16:04:20 10.71.61.0 u490724583 open "/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Mar 23 16:04:20 10.71.61.0 u490724583 open "/fonts/Pe-icon-7-stroke.ttf" flags READ mode 0666
+Mar 23 16:04:20 10.71.61.0 u490724583 close "/fonts/fontawesome-webfont.woff2" bytes read 56780 written 0
+Mar 23 16:04:20 10.71.61.0 u490724583 [10.71.61.0|get|0|56780|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Mar 23 16:04:20 10.71.61.0 u490724583 close "/fonts/Pe-icon-7-stroke.ttf" bytes read 58480 written 0
+Mar 23 16:04:20 10.71.61.0 u490724583 [10.71.61.0|get|0|58480|0|0|0|2f666f6e74732f50652d69636f6e2d372d7374726f6b652e747466|]
+Mar 23 16:04:20 10.71.61.0 u490724583 open "/fonts/themify.eot" flags READ mode 0666
+Mar 23 16:04:20 10.71.61.0 u490724583 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Mar 23 16:04:20 10.71.61.0 u490724583 close "/fonts/themify.eot" bytes read 78748 written 0
+Mar 23 16:04:20 10.71.61.0 u490724583 [10.71.61.0|get|0|78748|0|0|0|2f666f6e74732f7468656d6966792e656f74|]
+Mar 23 16:04:20 10.71.61.0 u490724583 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 41280 written 0
+Mar 23 16:04:20 10.71.61.0 u490724583 [10.71.61.0|get|0|41280|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Mar 23 16:04:21 10.71.61.0 u490724583 open "/fonts/et-line.eot" flags READ mode 0666
+Mar 23 16:04:21 10.71.61.0 u490724583 open "/fonts/Pe-icon-7-stroke.eot" flags READ mode 0666
+Mar 23 16:04:21 10.71.61.0 u490724583 close "/fonts/et-line.eot" bytes read 32694 written 0
+Mar 23 16:04:21 10.71.61.0 u490724583 [10.71.61.0|get|0|32694|0|0|0|2f666f6e74732f65742d6c696e652e656f74|]
+Mar 23 16:04:21 10.71.61.0 u490724583 close "/fonts/Pe-icon-7-stroke.eot" bytes read 58680 written 0
+Mar 23 16:04:21 10.71.61.0 u490724583 [10.71.61.0|get|0|58680|0|0|0|2f666f6e74732f50652d69636f6e2d372d7374726f6b652e656f74|]
+Mar 23 16:04:21 10.71.61.0 u490724583 open "/fonts/themify.ttf" flags READ mode 0666
+Mar 23 16:04:21 10.71.61.0 u490724583 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Mar 23 16:04:22 10.71.61.0 u490724583 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20335 written 0
+Mar 23 16:04:22 10.71.61.0 u490724583 [10.71.61.0|get|1|20335|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Mar 23 16:04:22 10.71.61.0 u490724583 close "/fonts/themify.ttf" bytes read 78584 written 0
+Mar 23 16:04:22 10.71.61.0 u490724583 [10.71.61.0|get|1|78584|0|0|0|2f666f6e74732f7468656d6966792e747466|]
+Mar 23 16:04:22 10.71.61.0 u490724583 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Mar 23 16:04:22 10.71.61.0 u490724583 open "/fonts/Pe-icon-7-stroke.woff" flags READ mode 0666
+Mar 23 16:04:22 10.71.61.0 u490724583 close "/fonts/Pe-icon-7-stroke.woff" bytes read 58556 written 0
+Mar 23 16:04:22 10.71.61.0 u490724583 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23320 written 0
+Mar 23 16:04:22 10.71.61.0 u490724583 [10.71.61.0|get|0|58556|0|0|0|2f666f6e74732f50652d69636f6e2d372d7374726f6b652e776f6666|]
+Mar 23 16:04:22 10.71.61.0 u490724583 [10.71.61.0|get|0|23320|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Mar 23 16:04:23 10.71.61.0 u490724583 open "/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Mar 23 16:04:23 10.71.61.0 u490724583 open "/fonts/FontAwesome.otf" flags READ mode 0666
+Mar 23 16:04:23 10.71.61.0 u490724583 close "/fonts/FontAwesome.otf" bytes read 93888 written 0
+Mar 23 16:04:23 10.71.61.0 u490724583 [10.71.61.0|get|0|93888|0|0|0|2f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Mar 23 16:04:23 10.71.61.0 u490724583 close "/fonts/fontawesome-webfont.svg" bytes read 313398 written 0
+Mar 23 16:04:23 10.71.61.0 u490724583 [10.71.61.0|get|0|313398|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Mar 23 16:04:23 10.71.61.0 u490724583 open "/fonts/et-line.ttf" flags READ mode 0666
+Mar 23 16:04:24 10.71.61.0 u490724583 open "/img/maestria-gestion.jpg" flags READ mode 0666
+Mar 23 16:04:24 10.71.61.0 u490724583 close "/fonts/et-line.ttf" bytes read 32536 written 0
+Mar 23 16:04:24 10.71.61.0 u490724583 [10.71.61.0|get|1|32536|0|0|0|2f666f6e74732f65742d6c696e652e747466|]
+Mar 23 16:04:24 10.71.61.0 u490724583 close "/img/maestria-gestion.jpg" bytes read 1507070 written 0
+Mar 23 16:04:24 10.71.61.0 u490724583 [10.71.61.0|get|0|1507070|0|0|0|2f696d672f6d616573747269612d67657374696f6e2e6a7067|]
+Mar 23 16:04:24 10.71.61.0 u490724583 open "/img/seguro.jpg" flags READ mode 0666
+Mar 23 16:04:24 10.71.61.0 u490724583 open "/img/logo-light.png" flags READ mode 0666
+Mar 23 16:04:24 10.71.61.0 u490724583 close "/img/seguro.jpg" bytes read 26748 written 0
+Mar 23 16:04:24 10.71.61.0 u490724583 [10.71.61.0|get|0|26748|0|0|0|2f696d672f73656775726f2e6a7067|]
+Mar 23 16:04:24 10.71.61.0 u490724583 close "/img/logo-light.png" bytes read 2009 written 0
+Mar 23 16:04:24 10.71.61.0 u490724583 [10.71.61.0|get|0|2009|0|0|0|2f696d672f6c6f676f2d6c696768742e706e67|]
+Mar 23 16:04:25 10.71.61.0 u490724583 open "/img/mensaje.jpg" flags READ mode 0666
+Mar 23 16:04:25 10.71.61.0 u490724583 open "/img/alumnos.jpg" flags READ mode 0666
+Mar 23 16:04:25 10.71.61.0 u490724583 close "/img/mensaje.jpg" bytes read 327868 written 0
+Mar 23 16:04:25 10.71.61.0 u490724583 [10.71.61.0|get|0|327868|0|0|0|2f696d672f6d656e73616a652e6a7067|]
+Mar 23 16:04:25 10.71.61.0 u490724583 close "/img/alumnos.jpg" bytes read 101359 written 0
+Mar 23 16:04:25 10.71.61.0 u490724583 [10.71.61.0|get|0|101359|0|0|0|2f696d672f616c756d6e6f732e6a7067|]
+Mar 23 16:04:25 10.71.61.0 u490724583 open "/img/inicio1.jpg" flags READ mode 0666
+Mar 23 16:04:25 10.71.61.0 u490724583 open "/img/gestion.jpg" flags READ mode 0666
+Mar 23 16:04:25 10.71.61.0 u490724583 close "/img/inicio1.jpg" bytes read 2159897 written 0
+Mar 23 16:04:25 10.71.61.0 u490724583 [10.71.61.0|get|0|2159897|0|0|0|2f696d672f696e6963696f312e6a7067|]
+Mar 23 16:04:25 10.71.61.0 u490724583 close "/img/gestion.jpg" bytes read 784340 written 0
+Mar 23 16:04:25 10.71.61.0 u490724583 [10.71.61.0|get|0|784340|0|0|0|2f696d672f67657374696f6e2e6a7067|]
+Mar 23 16:04:25 10.71.61.0 u490724583 open "/img/informe.jpg" flags READ mode 0666
+Mar 23 16:04:26 10.71.61.0 u490724583 open "/img/cover.jpg" flags READ mode 0666
+Mar 23 16:04:26 10.71.61.0 u490724583 close "/img/informe.jpg" bytes read 366546 written 0
+Mar 23 16:04:26 10.71.61.0 u490724583 [10.71.61.0|get|1|366546|0|0|0|2f696d672f696e666f726d652e6a7067|]
+Mar 23 16:04:26 10.71.61.0 u490724583 close "/img/cover.jpg" bytes read 262436 written 0
+Mar 23 16:04:26 10.71.61.0 u490724583 [10.71.61.0|get|0|262436|0|0|0|2f696d672f636f7665722e6a7067|]
+Mar 23 16:04:26 10.71.61.0 u490724583 open "/img/covid.jpg" flags READ mode 0666
+Mar 23 16:04:26 10.71.61.0 u490724583 open "/img/imss.jpg" flags READ mode 0666
+Mar 23 16:04:26 10.71.61.0 u490724583 close "/img/covid.jpg" bytes read 271952 written 0
+Mar 23 16:04:26 10.71.61.0 u490724583 [10.71.61.0|get|0|271952|0|0|0|2f696d672f636f7669642e6a7067|]
+Mar 23 16:04:26 10.71.61.0 u490724583 close "/img/imss.jpg" bytes read 27859 written 0
+Mar 23 16:04:26 10.71.61.0 u490724583 [10.71.61.0|get|0|27859|0|0|0|2f696d672f696d73732e6a7067|]
+Mar 23 16:04:26 10.71.61.0 u490724583 sent status No such file
+Mar 23 16:04:26 10.71.61.0 u490724583 open "/img/aspirantes.jpg" flags READ mode 0666
+Mar 23 16:04:27 10.71.61.0 u490724583 open "/img/10.jpg" flags READ mode 0666
+Mar 23 16:04:27 10.71.61.0 u490724583 close "/img/aspirantes.jpg" bytes read 53350 written 0
+Mar 23 16:04:27 10.71.61.0 u490724583 [10.71.61.0|get|1|53350|0|0|0|2f696d672f6173706972616e7465732e6a7067|]
+Mar 23 16:04:27 10.71.61.0 u490724583 close "/img/10.jpg" bytes read 53680 written 0
+Mar 23 16:04:27 10.71.61.0 u490724583 [10.71.61.0|get|0|53680|0|0|0|2f696d672f31302e6a7067|]
+Mar 23 16:04:27 10.71.61.0 u490724583 open "/img/11.JPG" flags READ mode 0666
+Mar 23 16:04:27 10.71.61.0 u490724583 open "/img/12.jpg" flags READ mode 0666
+Mar 23 16:04:27 10.71.61.0 u490724583 close "/img/11.JPG" bytes read 423650 written 0
+Mar 23 16:04:27 10.71.61.0 u490724583 [10.71.61.0|get|0|423650|0|0|0|2f696d672f31312e4a5047|]
+Mar 23 16:04:27 10.71.61.0 u490724583 close "/img/12.jpg" bytes read 309316 written 0
+Mar 23 16:04:27 10.71.61.0 u490724583 [10.71.61.0|get|0|309316|0|0|0|2f696d672f31322e6a7067|]
+Mar 23 16:04:27 10.71.61.0 u490724583 open "/img/egresados.jpg" flags READ mode 0666
+Mar 23 16:04:27 10.71.61.0 u490724583 open "/img/con-maes.jpg" flags READ mode 0666
+Mar 23 16:04:28 10.71.61.0 u490724583 close "/img/egresados.jpg" bytes read 208604 written 0
+Mar 23 16:04:28 10.71.61.0 u490724583 [10.71.61.0|get|1|208604|0|0|0|2f696d672f656772657361646f732e6a7067|]
+Mar 23 16:04:28 10.71.61.0 u490724583 close "/img/con-maes.jpg" bytes read 97864 written 0
+Mar 23 16:04:28 10.71.61.0 u490724583 [10.71.61.0|get|1|97864|0|0|0|2f696d672f636f6e2d6d6165732e6a7067|]
+Mar 23 16:04:28 10.71.61.0 u490724583 open "/img/logo-p-dark.png" flags READ mode 0666
+Mar 23 16:04:28 10.71.61.0 u490724583 open "/img/inicio.jpg" flags READ mode 0666
+Mar 23 16:04:28 10.71.61.0 u490724583 close "/img/logo-p-dark.png" bytes read 2059 written 0
+Mar 23 16:04:28 10.71.61.0 u490724583 [10.71.61.0|get|0|2059|0|0|0|2f696d672f6c6f676f2d702d6461726b2e706e67|]
+Mar 23 16:04:28 10.71.61.0 u490724583 close "/img/inicio.jpg" bytes read 1075661 written 0
+Mar 23 16:04:28 10.71.61.0 u490724583 [10.71.61.0|get|0|1075661|0|0|0|2f696d672f696e6963696f2e6a7067|]
+Mar 23 16:04:28 10.71.61.0 u490724583 open "/img/convocatoria-4.jpg" flags READ mode 0666
+Mar 23 16:04:28 10.71.61.0 u490724583 open "/img/convocatoria.jpg" flags READ mode 0666
+Mar 23 16:04:29 10.71.61.0 u490724583 close "/img/convocatoria-4.jpg" bytes read 905599 written 0
+Mar 23 16:04:29 10.71.61.0 u490724583 [10.71.61.0|get|1|905599|0|0|0|2f696d672f636f6e766f6361746f7269612d342e6a7067|]
+Mar 23 16:04:29 10.71.61.0 u490724583 close "/img/convocatoria.jpg" bytes read 235365 written 0
+Mar 23 16:04:29 10.71.61.0 u490724583 [10.71.61.0|get|1|235365|0|0|0|2f696d672f636f6e766f6361746f7269612e6a7067|]
+Mar 23 16:04:29 10.71.61.0 u490724583 open "/img/.DS_Store" flags READ mode 0666
+Mar 23 16:04:29 10.71.61.0 u490724583 open "/img/convocatoria-5.jpg" flags READ mode 0666
+Mar 23 16:04:29 10.71.61.0 u490724583 close "/img/.DS_Store" bytes read 20484 written 0
+Mar 23 16:04:29 10.71.61.0 u490724583 [10.71.61.0|get|0|20484|0|0|0|2f696d672f2e44535f53746f7265|]
+Mar 23 16:04:29 10.71.61.0 u490724583 close "/img/convocatoria-5.jpg" bytes read 262436 written 0
+Mar 23 16:04:29 10.71.61.0 u490724583 [10.71.61.0|get|0|262436|0|0|0|2f696d672f636f6e766f6361746f7269612d352e6a7067|]
+Mar 23 16:04:29 10.71.61.0 u490724583 open "/img/edificio-3.jpg" flags READ mode 0666
+Mar 23 16:04:29 10.71.61.0 u490724583 open "/img/edificio-2.jpg" flags READ mode 0666
+Mar 23 16:04:30 10.71.61.0 u490724583 close "/img/edificio-3.jpg" bytes read 262436 written 0
+Mar 23 16:04:30 10.71.61.0 u490724583 [10.71.61.0|get|1|262436|0|0|0|2f696d672f656469666963696f2d332e6a7067|]
+Mar 23 16:04:30 10.71.61.0 u490724583 close "/img/edificio-2.jpg" bytes read 86861 written 0
+Mar 23 16:04:30 10.71.61.0 u490724583 [10.71.61.0|get|1|86861|0|0|0|2f696d672f656469666963696f2d322e6a7067|]
+Mar 23 16:04:30 10.71.61.0 u490724583 open "/img/oferta-academica.jpg" flags READ mode 0666
+Mar 23 16:04:30 10.71.61.0 u490724583 open "/img/convocatoria-2.jpg" flags READ mode 0666
+Mar 23 16:04:30 10.71.61.0 u490724583 close "/img/oferta-academica.jpg" bytes read 2108 written 0
+Mar 23 16:04:30 10.71.61.0 u490724583 [10.71.61.0|get|0|2108|0|0|0|2f696d672f6f66657274612d61636164656d6963612e6a7067|]
+Mar 23 16:04:30 10.71.61.0 u490724583 close "/img/convocatoria-2.jpg" bytes read 60593 written 0
+Mar 23 16:04:30 10.71.61.0 u490724583 [10.71.61.0|get|0|60593|0|0|0|2f696d672f636f6e766f6361746f7269612d322e6a7067|]
+Mar 23 16:04:30 10.71.61.0 u490724583 open "/img/logo-dark.png" flags READ mode 0666
+Mar 23 16:04:30 10.71.61.0 u490724583 open "/img/email.jpg" flags READ mode 0666
+Mar 23 16:04:30 10.71.61.0 u490724583 close "/img/logo-dark.png" bytes read 2059 written 0
+Mar 23 16:04:30 10.71.61.0 u490724583 [10.71.61.0|get|0|2059|0|0|0|2f696d672f6c6f676f2d6461726b2e706e67|]
+Mar 23 16:04:31 10.71.61.0 u490724583 close "/img/email.jpg" bytes read 348109 written 0
+Mar 23 16:04:31 10.71.61.0 u490724583 [10.71.61.0|get|1|348109|0|0|0|2f696d672f656d61696c2e6a7067|]
+Mar 23 16:04:31 10.71.61.0 u490724583 open "/img/edificio-1.jpg" flags READ mode 0666
+Mar 23 16:04:31 10.71.61.0 u490724583 open "/img/convocatoria-3.jpg" flags READ mode 0666
+Mar 23 16:04:31 10.71.61.0 u490724583 close "/img/edificio-1.jpg" bytes read 55613 written 0
+Mar 23 16:04:31 10.71.61.0 u490724583 [10.71.61.0|get|0|55613|0|0|0|2f696d672f656469666963696f2d312e6a7067|]
+Mar 23 16:04:31 10.71.61.0 u490724583 close "/img/convocatoria-3.jpg" bytes read 359721 written 0
+Mar 23 16:04:31 10.71.61.0 u490724583 [10.71.61.0|get|0|359721|0|0|0|2f696d672f636f6e766f6361746f7269612d332e6a7067|]
+Mar 23 16:04:31 10.71.61.0 u490724583 open "/img/home/1.jpg" flags READ mode 0666
+Mar 23 16:04:32 10.71.61.0 u490724583 open "/img/coleccion/.DS_Store" flags READ mode 0666
+Mar 23 16:04:32 10.71.61.0 u490724583 close "/img/home/1.jpg" bytes read 262436 written 0
+Mar 23 16:04:32 10.71.61.0 u490724583 [10.71.61.0|get|1|262436|0|0|0|2f696d672f686f6d652f312e6a7067|]
+Mar 23 16:04:32 10.71.61.0 u490724583 close "/img/coleccion/.DS_Store" bytes read 10244 written 0
+Mar 23 16:04:32 10.71.61.0 u490724583 [10.71.61.0|get|0|10244|0|0|0|2f696d672f636f6c656363696f6e2f2e44535f53746f7265|]
+Mar 23 16:04:32 10.71.61.0 u490724583 open "/img/coleccion/violin/2.jpg" flags READ mode 0666
+Mar 23 16:04:32 10.71.61.0 u490724583 open "/img/coleccion/violin/1.jpg" flags READ mode 0666
+Mar 23 16:04:32 10.71.61.0 u490724583 close "/img/coleccion/violin/2.jpg" bytes read 408649 written 0
+Mar 23 16:04:32 10.71.61.0 u490724583 [10.71.61.0|get|0|408649|0|0|0|2f696d672f636f6c656363696f6e2f76696f6c696e2f322e6a7067|]
+Mar 23 16:04:32 10.71.61.0 u490724583 close "/img/coleccion/violin/1.jpg" bytes read 516481 written 0
+Mar 23 16:04:32 10.71.61.0 u490724583 [10.71.61.0|get|0|516481|0|0|0|2f696d672f636f6c656363696f6e2f76696f6c696e2f312e6a7067|]
+Mar 23 16:04:33 10.71.61.0 u490724583 open "/img/coleccion/aspectos/1.jpg" flags READ mode 0666
+Mar 23 16:04:33 10.71.61.0 u490724583 open "/img/coleccion/aspectos/3.jpg" flags READ mode 0666
+Mar 23 16:04:33 10.71.61.0 u490724583 close "/img/coleccion/aspectos/1.jpg" bytes read 156025 written 0
+Mar 23 16:04:33 10.71.61.0 u490724583 [10.71.61.0|get|0|156025|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f312e6a7067|]
+Mar 23 16:04:33 10.71.61.0 u490724583 close "/img/coleccion/aspectos/3.jpg" bytes read 755746 written 0
+Mar 23 16:04:33 10.71.61.0 u490724583 [10.71.61.0|get|0|755746|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f332e6a7067|]
+Mar 23 16:04:33 10.71.61.0 u490724583 open "/img/coleccion/aspectos/2.jpg" flags READ mode 0666
+Mar 23 16:04:33 10.71.61.0 u490724583 open "/img/coleccion/aspectos/6.jpg" flags READ mode 0666
+Mar 23 16:04:34 10.71.61.0 u490724583 close "/img/coleccion/aspectos/2.jpg" bytes read 189711 written 0
+Mar 23 16:04:34 10.71.61.0 u490724583 [10.71.61.0|get|1|189711|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f322e6a7067|]
+Mar 23 16:04:34 10.71.61.0 u490724583 close "/img/coleccion/aspectos/6.jpg" bytes read 202792 written 0
+Mar 23 16:04:34 10.71.61.0 u490724583 [10.71.61.0|get|1|202792|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f362e6a7067|]
+Mar 23 16:04:34 10.71.61.0 u490724583 open "/img/coleccion/aspectos/7.jpg" flags READ mode 0666
+Mar 23 16:04:34 10.71.61.0 u490724583 open "/img/coleccion/aspectos/5.jpg" flags READ mode 0666
+Mar 23 16:04:34 10.71.61.0 u490724583 close "/img/coleccion/aspectos/7.jpg" bytes read 272657 written 0
+Mar 23 16:04:34 10.71.61.0 u490724583 [10.71.61.0|get|0|272657|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f372e6a7067|]
+Mar 23 16:04:34 10.71.61.0 u490724583 close "/img/coleccion/aspectos/5.jpg" bytes read 467339 written 0
+Mar 23 16:04:34 10.71.61.0 u490724583 [10.71.61.0|get|0|467339|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f352e6a7067|]
+Mar 23 16:04:34 10.71.61.0 u490724583 open "/img/coleccion/aspectos/4.jpg" flags READ mode 0666
+Mar 23 16:04:34 10.71.61.0 u490724583 open "/img/coleccion/aspectos/19.jpg" flags READ mode 0666
+Mar 23 16:04:34 10.71.61.0 u490724583 close "/img/coleccion/aspectos/4.jpg" bytes read 386153 written 0
+Mar 23 16:04:34 10.71.61.0 u490724583 [10.71.61.0|get|0|386153|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f342e6a7067|]
+Mar 23 16:04:35 10.71.61.0 u490724583 close "/img/coleccion/aspectos/19.jpg" bytes read 358875 written 0
+Mar 23 16:04:35 10.71.61.0 u490724583 [10.71.61.0|get|1|358875|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31392e6a7067|]
+Mar 23 16:04:35 10.71.61.0 u490724583 open "/img/coleccion/aspectos/18.jpg" flags READ mode 0666
+Mar 23 16:04:35 10.71.61.0 u490724583 open "/img/coleccion/aspectos/20.jpg" flags READ mode 0666
+Mar 23 16:04:35 10.71.61.0 u490724583 close "/img/coleccion/aspectos/18.jpg" bytes read 663773 written 0
+Mar 23 16:04:35 10.71.61.0 u490724583 [10.71.61.0|get|0|663773|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31382e6a7067|]
+Mar 23 16:04:35 10.71.61.0 u490724583 close "/img/coleccion/aspectos/20.jpg" bytes read 275145 written 0
+Mar 23 16:04:35 10.71.61.0 u490724583 [10.71.61.0|get|0|275145|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f32302e6a7067|]
+Mar 23 16:04:35 10.71.61.0 u490724583 open "/img/coleccion/aspectos/10.jpg" flags READ mode 0666
+Mar 23 16:04:35 10.71.61.0 u490724583 open "/img/coleccion/aspectos/11.jpg" flags READ mode 0666
+Mar 23 16:04:35 10.71.61.0 u490724583 close "/img/coleccion/aspectos/10.jpg" bytes read 218006 written 0
+Mar 23 16:04:35 10.71.61.0 u490724583 [10.71.61.0|get|0|218006|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31302e6a7067|]
+Mar 23 16:04:36 10.71.61.0 u490724583 close "/img/coleccion/aspectos/11.jpg" bytes read 283321 written 0
+Mar 23 16:04:36 10.71.61.0 u490724583 [10.71.61.0|get|1|283321|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31312e6a7067|]
+Mar 23 16:04:36 10.71.61.0 u490724583 open "/img/coleccion/aspectos/13.jpg" flags READ mode 0666
+Mar 23 16:04:36 10.71.61.0 u490724583 open "/img/coleccion/aspectos/12.jpg" flags READ mode 0666
+Mar 23 16:04:36 10.71.61.0 u490724583 close "/img/coleccion/aspectos/13.jpg" bytes read 308255 written 0
+Mar 23 16:04:36 10.71.61.0 u490724583 [10.71.61.0|get|0|308255|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31332e6a7067|]
+Mar 23 16:04:36 10.71.61.0 u490724583 close "/img/coleccion/aspectos/12.jpg" bytes read 340130 written 0
+Mar 23 16:04:36 10.71.61.0 u490724583 [10.71.61.0|get|0|340130|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31322e6a7067|]
+Mar 23 16:04:36 10.71.61.0 u490724583 open "/img/coleccion/aspectos/16.jpg" flags READ mode 0666
+Mar 23 16:04:36 10.71.61.0 u490724583 open "/img/coleccion/aspectos/17.jpg" flags READ mode 0666
+Mar 23 16:04:36 10.71.61.0 u490724583 close "/img/coleccion/aspectos/16.jpg" bytes read 593225 written 0
+Mar 23 16:04:36 10.71.61.0 u490724583 [10.71.61.0|get|0|593225|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31362e6a7067|]
+Mar 23 16:04:37 10.71.61.0 u490724583 close "/img/coleccion/aspectos/17.jpg" bytes read 633878 written 0
+Mar 23 16:04:37 10.71.61.0 u490724583 [10.71.61.0|get|1|633878|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31372e6a7067|]
+Mar 23 16:04:37 10.71.61.0 u490724583 open "/img/coleccion/aspectos/15.jpg" flags READ mode 0666
+Mar 23 16:04:37 10.71.61.0 u490724583 open "/img/coleccion/aspectos/14.jpg" flags READ mode 0666
+Mar 23 16:04:37 10.71.61.0 u490724583 close "/img/coleccion/aspectos/15.jpg" bytes read 976027 written 0
+Mar 23 16:04:37 10.71.61.0 u490724583 [10.71.61.0|get|0|976027|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31352e6a7067|]
+Mar 23 16:04:37 10.71.61.0 u490724583 close "/img/coleccion/aspectos/14.jpg" bytes read 739133 written 0
+Mar 23 16:04:37 10.71.61.0 u490724583 [10.71.61.0|get|0|739133|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f31342e6a7067|]
+Mar 23 16:04:37 10.71.61.0 u490724583 open "/img/coleccion/aspectos/9.jpg" flags READ mode 0666
+Mar 23 16:04:37 10.71.61.0 u490724583 open "/img/coleccion/aspectos/8.jpg" flags READ mode 0666
+Mar 23 16:04:37 10.71.61.0 u490724583 close "/img/coleccion/aspectos/9.jpg" bytes read 219098 written 0
+Mar 23 16:04:37 10.71.61.0 u490724583 [10.71.61.0|get|0|219098|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f392e6a7067|]
+Mar 23 16:04:38 10.71.61.0 u490724583 close "/img/coleccion/aspectos/8.jpg" bytes read 263503 written 0
+Mar 23 16:04:38 10.71.61.0 u490724583 [10.71.61.0|get|1|263503|0|0|0|2f696d672f636f6c656363696f6e2f6173706563746f732f382e6a7067|]
+Mar 23 16:04:38 10.71.61.0 u490724583 open "/img/coleccion/esculturas/1.jpg" flags READ mode 0666
+Mar 23 16:04:38 10.71.61.0 u490724583 open "/img/coleccion/esculturas/3.jpg" flags READ mode 0666
+Mar 23 16:04:38 10.71.61.0 u490724583 close "/img/coleccion/esculturas/1.jpg" bytes read 247620 written 0
+Mar 23 16:04:38 10.71.61.0 u490724583 [10.71.61.0|get|0|247620|0|0|0|2f696d672f636f6c656363696f6e2f657363756c74757261732f312e6a7067|]
+Mar 23 16:04:38 10.71.61.0 u490724583 close "/img/coleccion/esculturas/3.jpg" bytes read 214695 written 0
+Mar 23 16:04:38 10.71.61.0 u490724583 [10.71.61.0|get|0|214695|0|0|0|2f696d672f636f6c656363696f6e2f657363756c74757261732f332e6a7067|]
+Mar 23 16:04:38 10.71.61.0 u490724583 open "/img/coleccion/esculturas/2.jpg" flags READ mode 0666
+Mar 23 16:04:39 10.71.61.0 u490724583 open "/img/coleccion/esculturas/4.jpg" flags READ mode 0666
+Mar 23 16:04:39 10.71.61.0 u490724583 close "/img/coleccion/esculturas/2.jpg" bytes read 200278 written 0
+Mar 23 16:04:39 10.71.61.0 u490724583 [10.71.61.0|get|1|200278|0|0|0|2f696d672f636f6c656363696f6e2f657363756c74757261732f322e6a7067|]
+Mar 23 16:04:39 10.71.61.0 u490724583 close "/img/coleccion/esculturas/4.jpg" bytes read 229547 written 0
+Mar 23 16:04:39 10.71.61.0 u490724583 [10.71.61.0|get|0|229547|0|0|0|2f696d672f636f6c656363696f6e2f657363756c74757261732f342e6a7067|]
+Mar 23 16:04:39 10.71.61.0 u490724583 open "/img/coleccion/esculturas/5.jpg" flags READ mode 0666
+Mar 23 16:04:39 10.71.61.0 u490724583 close "/img/coleccion/esculturas/5.jpg" bytes read 265605 written 0
+Mar 23 16:04:39 10.71.61.0 u490724583 [10.71.61.0|get|0|265605|0|0|0|2f696d672f636f6c656363696f6e2f657363756c74757261732f352e6a7067|]
+Mar 23 16:04:39 10.71.61.0 u490724583 open "/img/coleccion/decretos/1.jpg" flags READ mode 0666
+Mar 23 16:04:40 10.71.61.0 u490724583 close "/img/coleccion/decretos/1.jpg" bytes read 381984 written 0
+Mar 23 16:04:40 10.71.61.0 u490724583 [10.71.61.0|get|1|381984|0|0|0|2f696d672f636f6c656363696f6e2f6465637265746f732f312e6a7067|]
+Mar 23 16:04:40 10.71.61.0 u490724583 open "/img/coleccion/decretos/2.jpg" flags READ mode 0666
+Mar 23 16:04:40 10.71.61.0 u490724583 open "/img/coleccion/decretos/3.jpg" flags READ mode 0666
+Mar 23 16:04:40 10.71.61.0 u490724583 close "/img/coleccion/decretos/2.jpg" bytes read 354575 written 0
+Mar 23 16:04:40 10.71.61.0 u490724583 [10.71.61.0|get|0|354575|0|0|0|2f696d672f636f6c656363696f6e2f6465637265746f732f322e6a7067|]
+Mar 23 16:04:40 10.71.61.0 u490724583 close "/img/coleccion/decretos/3.jpg" bytes read 345609 written 0
+Mar 23 16:04:40 10.71.61.0 u490724583 [10.71.61.0|get|0|345609|0|0|0|2f696d672f636f6c656363696f6e2f6465637265746f732f332e6a7067|]
+Mar 23 16:04:40 10.71.61.0 u490724583 open "/img/coleccion/grabados/1.jpg" flags READ mode 0666
+Mar 23 16:04:40 10.71.61.0 u490724583 open "/img/coleccion/grabados/3.jpg" flags READ mode 0666
+Mar 23 16:04:41 10.71.61.0 u490724583 close "/img/coleccion/grabados/1.jpg" bytes read 303022 written 0
+Mar 23 16:04:41 10.71.61.0 u490724583 [10.71.61.0|get|1|303022|0|0|0|2f696d672f636f6c656363696f6e2f6772616261646f732f312e6a7067|]
+Mar 23 16:04:41 10.71.61.0 u490724583 close "/img/coleccion/grabados/3.jpg" bytes read 411738 written 0
+Mar 23 16:04:41 10.71.61.0 u490724583 [10.71.61.0|get|1|411738|0|0|0|2f696d672f636f6c656363696f6e2f6772616261646f732f332e6a7067|]
+Mar 23 16:04:41 10.71.61.0 u490724583 open "/img/coleccion/grabados/2.jpg" flags READ mode 0666
+Mar 23 16:04:41 10.71.61.0 u490724583 open "/img/coleccion/grabados/6.jpg" flags READ mode 0666
+Mar 23 16:04:41 10.71.61.0 u490724583 close "/img/coleccion/grabados/2.jpg" bytes read 333329 written 0
+Mar 23 16:04:41 10.71.61.0 u490724583 [10.71.61.0|get|0|333329|0|0|0|2f696d672f636f6c656363696f6e2f6772616261646f732f322e6a7067|]
+Mar 23 16:04:41 10.71.61.0 u490724583 open "/img/coleccion/grabados/4.jpg" flags READ mode 0666
+Mar 23 16:04:41 10.71.61.0 u490724583 close "/img/coleccion/grabados/6.jpg" bytes read 278210 written 0
+Mar 23 16:04:41 10.71.61.0 u490724583 [10.71.61.0|get|0|278210|0|0|0|2f696d672f636f6c656363696f6e2f6772616261646f732f362e6a7067|]
+Mar 23 16:04:41 10.71.61.0 u490724583 close "/img/coleccion/grabados/4.jpg" bytes read 367654 written 0
+Mar 23 16:04:41 10.71.61.0 u490724583 [10.71.61.0|get|0|367654|0|0|0|2f696d672f636f6c656363696f6e2f6772616261646f732f342e6a7067|]
+Mar 23 16:04:41 10.71.61.0 u490724583 open "/img/coleccion/grabados/5.jpg" flags READ mode 0666
+Mar 23 16:04:42 10.71.61.0 u490724583 close "/img/coleccion/grabados/5.jpg" bytes read 232512 written 0
+Mar 23 16:04:42 10.71.61.0 u490724583 [10.71.61.0|get|1|232512|0|0|0|2f696d672f636f6c656363696f6e2f6772616261646f732f352e6a7067|]
+Mar 23 16:04:42 10.71.61.0 u490724583 open "/img/coleccion/obras/1.jpg" flags READ mode 0666
+Mar 23 16:04:42 10.71.61.0 u490724583 open "/img/coleccion/obras/3.jpg" flags READ mode 0666
+Mar 23 16:04:42 10.71.61.0 u490724583 close "/img/coleccion/obras/1.jpg" bytes read 366949 written 0
+Mar 23 16:04:42 10.71.61.0 u490724583 [10.71.61.0|get|0|366949|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f312e6a7067|]
+Mar 23 16:04:42 10.71.61.0 u490724583 close "/img/coleccion/obras/3.jpg" bytes read 289819 written 0
+Mar 23 16:04:42 10.71.61.0 u490724583 [10.71.61.0|get|0|289819|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f332e6a7067|]
+Mar 23 16:04:42 10.71.61.0 u490724583 open "/img/coleccion/obras/2.jpg" flags READ mode 0666
+Mar 23 16:04:43 10.71.61.0 u490724583 open "/img/coleccion/obras/6.jpg" flags READ mode 0666
+Mar 23 16:04:43 10.71.61.0 u490724583 close "/img/coleccion/obras/2.jpg" bytes read 269109 written 0
+Mar 23 16:04:43 10.71.61.0 u490724583 [10.71.61.0|get|1|269109|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f322e6a7067|]
+Mar 23 16:04:43 10.71.61.0 u490724583 close "/img/coleccion/obras/6.jpg" bytes read 179520 written 0
+Mar 23 16:04:43 10.71.61.0 u490724583 [10.71.61.0|get|0|179520|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f362e6a7067|]
+Mar 23 16:04:43 10.71.61.0 u490724583 open "/img/coleccion/obras/7.jpg" flags READ mode 0666
+Mar 23 16:04:43 10.71.61.0 u490724583 open "/img/coleccion/obras/5.jpg" flags READ mode 0666
+Mar 23 16:04:43 10.71.61.0 u490724583 close "/img/coleccion/obras/7.jpg" bytes read 192939 written 0
+Mar 23 16:04:43 10.71.61.0 u490724583 [10.71.61.0|get|0|192939|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f372e6a7067|]
+Mar 23 16:04:43 10.71.61.0 u490724583 close "/img/coleccion/obras/5.jpg" bytes read 224446 written 0
+Mar 23 16:04:43 10.71.61.0 u490724583 [10.71.61.0|get|0|224446|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f352e6a7067|]
+Mar 23 16:04:43 10.71.61.0 u490724583 open "/img/coleccion/obras/10.jpg" flags READ mode 0666
+Mar 23 16:04:44 10.71.61.0 u490724583 open "/img/coleccion/obras/4.jpg" flags READ mode 0666
+Mar 23 16:04:44 10.71.61.0 u490724583 close "/img/coleccion/obras/10.jpg" bytes read 207646 written 0
+Mar 23 16:04:44 10.71.61.0 u490724583 [10.71.61.0|get|1|207646|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f31302e6a7067|]
+Mar 23 16:04:44 10.71.61.0 u490724583 close "/img/coleccion/obras/4.jpg" bytes read 232334 written 0
+Mar 23 16:04:44 10.71.61.0 u490724583 [10.71.61.0|get|0|232334|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f342e6a7067|]
+Mar 23 16:04:44 10.71.61.0 u490724583 open "/img/coleccion/obras/11.jpg" flags READ mode 0666
+Mar 23 16:04:44 10.71.61.0 u490724583 open "/img/coleccion/obras/13.jpg" flags READ mode 0666
+Mar 23 16:04:44 10.71.61.0 u490724583 close "/img/coleccion/obras/11.jpg" bytes read 228614 written 0
+Mar 23 16:04:44 10.71.61.0 u490724583 [10.71.61.0|get|0|228614|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f31312e6a7067|]
+Mar 23 16:04:44 10.71.61.0 u490724583 close "/img/coleccion/obras/13.jpg" bytes read 225536 written 0
+Mar 23 16:04:44 10.71.61.0 u490724583 open "/img/coleccion/obras/12.jpg" flags READ mode 0666
+Mar 23 16:04:44 10.71.61.0 u490724583 [10.71.61.0|get|0|225536|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f31332e6a7067|]
+Mar 23 16:04:45 10.71.61.0 u490724583 open "/img/coleccion/obras/16.jpg" flags READ mode 0666
+Mar 23 16:04:45 10.71.61.0 u490724583 close "/img/coleccion/obras/12.jpg" bytes read 190594 written 0
+Mar 23 16:04:45 10.71.61.0 u490724583 [10.71.61.0|get|1|190594|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f31322e6a7067|]
+Mar 23 16:04:45 10.71.61.0 u490724583 close "/img/coleccion/obras/16.jpg" bytes read 64719 written 0
+Mar 23 16:04:45 10.71.61.0 u490724583 open "/img/coleccion/obras/15.jpg" flags READ mode 0666
+Mar 23 16:04:45 10.71.61.0 u490724583 [10.71.61.0|get|0|64719|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f31362e6a7067|]
+Mar 23 16:04:45 10.71.61.0 u490724583 open "/img/coleccion/obras/14.jpg" flags READ mode 0666
+Mar 23 16:04:45 10.71.61.0 u490724583 close "/img/coleccion/obras/15.jpg" bytes read 176662 written 0
+Mar 23 16:04:45 10.71.61.0 u490724583 [10.71.61.0|get|0|176662|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f31352e6a7067|]
+Mar 23 16:04:45 10.71.61.0 u490724583 close "/img/coleccion/obras/14.jpg" bytes read 224379 written 0
+Mar 23 16:04:45 10.71.61.0 u490724583 [10.71.61.0|get|0|224379|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f31342e6a7067|]
+Mar 23 16:04:45 10.71.61.0 u490724583 open "/img/coleccion/obras/9.jpg" flags READ mode 0666
+Mar 23 16:04:45 10.71.61.0 u490724583 open "/img/coleccion/obras/8.jpg" flags READ mode 0666
+Mar 23 16:04:46 10.71.61.0 u490724583 close "/img/coleccion/obras/9.jpg" bytes read 216953 written 0
+Mar 23 16:04:46 10.71.61.0 u490724583 [10.71.61.0|get|1|216953|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f392e6a7067|]
+Mar 23 16:04:46 10.71.61.0 u490724583 close "/img/coleccion/obras/8.jpg" bytes read 203297 written 0
+Mar 23 16:04:46 10.71.61.0 u490724583 [10.71.61.0|get|1|203297|0|0|0|2f696d672f636f6c656363696f6e2f6f627261732f382e6a7067|]
+Mar 23 16:04:46 10.71.61.0 u490724583 open "/img/procesos/practicas.jpg" flags READ mode 0666
+Mar 23 16:04:46 10.71.61.0 u490724583 open "/img/procesos/servicio.jpg" flags READ mode 0666
+Mar 23 16:04:46 10.71.61.0 u490724583 close "/img/procesos/practicas.jpg" bytes read 1000266 written 0
+Mar 23 16:04:46 10.71.61.0 u490724583 [10.71.61.0|get|0|1000266|0|0|0|2f696d672f70726f6365736f732f7072616374696361732e6a7067|]
+Mar 23 16:04:46 10.71.61.0 u490724583 close "/img/procesos/servicio.jpg" bytes read 243616 written 0
+Mar 23 16:04:46 10.71.61.0 u490724583 [10.71.61.0|get|0|243616|0|0|0|2f696d672f70726f6365736f732f736572766963696f2e6a7067|]
+Mar 23 16:04:46 10.71.61.0 u490724583 open "/img/procesos/extra.jpg" flags READ mode 0666
+Mar 23 16:04:47 10.71.61.0 u490724583 open "/img/procesos/.DS_Store" flags READ mode 0666
+Mar 23 16:04:47 10.71.61.0 u490724583 close "/img/procesos/extra.jpg" bytes read 242616 written 0
+Mar 23 16:04:47 10.71.61.0 u490724583 [10.71.61.0|get|1|242616|0|0|0|2f696d672f70726f6365736f732f65787472612e6a7067|]
+Mar 23 16:04:47 10.71.61.0 u490724583 close "/img/procesos/.DS_Store" bytes read 6148 written 0
+Mar 23 16:04:47 10.71.61.0 u490724583 [10.71.61.0|get|0|6148|0|0|0|2f696d672f70726f6365736f732f2e44535f53746f7265|]
+Mar 23 16:04:47 10.71.61.0 u490724583 open "/img/procesos/institucion.jpg" flags READ mode 0666
+Mar 23 16:04:47 10.71.61.0 u490724583 close "/img/procesos/institucion.jpg" bytes read 1152941 written 0
+Mar 23 16:04:47 10.71.61.0 u490724583 [10.71.61.0|get|0|1152941|0|0|0|2f696d672f70726f6365736f732f696e737469747563696f6e2e6a7067|]
+Mar 23 16:04:47 10.71.61.0 u490724583 open "/img/talleres/1.jpg" flags READ mode 0666
+Mar 23 16:04:48 10.71.61.0 u490724583 close "/img/talleres/1.jpg" bytes read 189020 written 0
+Mar 23 16:04:48 10.71.61.0 u490724583 [10.71.61.0|get|1|189020|0|0|0|2f696d672f74616c6c657265732f312e6a7067|]
+Mar 23 16:04:48 10.71.61.0 u490724583 open "/img/talleres/3.jpg" flags READ mode 0666
+Mar 23 16:04:48 10.71.61.0 u490724583 open "/img/talleres/2.jpg" flags READ mode 0666
+Mar 23 16:04:48 10.71.61.0 u490724583 close "/img/talleres/3.jpg" bytes read 406221 written 0
+Mar 23 16:04:48 10.71.61.0 u490724583 [10.71.61.0|get|0|406221|0|0|0|2f696d672f74616c6c657265732f332e6a7067|]
+Mar 23 16:04:48 10.71.61.0 u490724583 close "/img/talleres/2.jpg" bytes read 501622 written 0
+Mar 23 16:04:48 10.71.61.0 u490724583 [10.71.61.0|get|0|501622|0|0|0|2f696d672f74616c6c657265732f322e6a7067|]
+Mar 23 16:04:48 10.71.61.0 u490724583 open "/img/talleres/6.jpg" flags READ mode 0666
+Mar 23 16:04:48 10.71.61.0 u490724583 open "/img/talleres/7.jpg" flags READ mode 0666
+Mar 23 16:04:48 10.71.61.0 u490724583 close "/img/talleres/6.jpg" bytes read 162330 written 0
+Mar 23 16:04:48 10.71.61.0 u490724583 [10.71.61.0|get|0|162330|0|0|0|2f696d672f74616c6c657265732f362e6a7067|]
+Mar 23 16:04:49 10.71.61.0 u490724583 close "/img/talleres/7.jpg" bytes read 71344 written 0
+Mar 23 16:04:49 10.71.61.0 u490724583 [10.71.61.0|get|1|71344|0|0|0|2f696d672f74616c6c657265732f372e6a7067|]
+Mar 23 16:04:49 10.71.61.0 u490724583 open "/img/talleres/5.jpg" flags READ mode 0666
+Mar 23 16:04:49 10.71.61.0 u490724583 open "/img/talleres/4.jpg" flags READ mode 0666
+Mar 23 16:04:49 10.71.61.0 u490724583 close "/img/talleres/5.jpg" bytes read 325299 written 0
+Mar 23 16:04:49 10.71.61.0 u490724583 [10.71.61.0|get|0|325299|0|0|0|2f696d672f74616c6c657265732f352e6a7067|]
+Mar 23 16:04:49 10.71.61.0 u490724583 close "/img/talleres/4.jpg" bytes read 212460 written 0
+Mar 23 16:04:49 10.71.61.0 u490724583 [10.71.61.0|get|0|212460|0|0|0|2f696d672f74616c6c657265732f342e6a7067|]
+Mar 23 16:04:49 10.71.61.0 u490724583 open "/img/talleres/cover.jpg" flags READ mode 0666
+Mar 23 16:04:49 10.71.61.0 u490724583 open "/img/talleres/10.jpg" flags READ mode 0666
+Mar 23 16:04:49 10.71.61.0 u490724583 close "/img/talleres/cover.jpg" bytes read 227579 written 0
+Mar 23 16:04:49 10.71.61.0 u490724583 [10.71.61.0|get|0|227579|0|0|0|2f696d672f74616c6c657265732f636f7665722e6a7067|]
+Mar 23 16:04:50 10.71.61.0 u490724583 close "/img/talleres/10.jpg" bytes read 24324 written 0
+Mar 23 16:04:50 10.71.61.0 u490724583 [10.71.61.0|get|1|24324|0|0|0|2f696d672f74616c6c657265732f31302e6a7067|]
+Mar 23 16:04:50 10.71.61.0 u490724583 open "/img/talleres/11.jpg" flags READ mode 0666
+Mar 23 16:04:50 10.71.61.0 u490724583 open "/img/talleres/12.jpg" flags READ mode 0666
+Mar 23 16:04:50 10.71.61.0 u490724583 close "/img/talleres/11.jpg" bytes read 50945 written 0
+Mar 23 16:04:50 10.71.61.0 u490724583 [10.71.61.0|get|0|50945|0|0|0|2f696d672f74616c6c657265732f31312e6a7067|]
+Mar 23 16:04:50 10.71.61.0 u490724583 open "/img/talleres/8.jpg" flags READ mode 0666
+Mar 23 16:04:50 10.71.61.0 u490724583 close "/img/talleres/12.jpg" bytes read 330386 written 0
+Mar 23 16:04:50 10.71.61.0 u490724583 [10.71.61.0|get|0|330386|0|0|0|2f696d672f74616c6c657265732f31322e6a7067|]
+Mar 23 16:04:50 10.71.61.0 u490724583 close "/img/talleres/8.jpg" bytes read 48607 written 0
+Mar 23 16:04:50 10.71.61.0 u490724583 [10.71.61.0|get|0|48607|0|0|0|2f696d672f74616c6c657265732f382e6a7067|]
+Mar 23 16:04:50 10.71.61.0 u490724583 open "/img/talleres/9.jpg" flags READ mode 0666
+Mar 23 16:04:51 10.71.61.0 u490724583 close "/img/talleres/9.jpg" bytes read 81011 written 0
+Mar 23 16:04:51 10.71.61.0 u490724583 [10.71.61.0|get|1|81011|0|0|0|2f696d672f74616c6c657265732f392e6a7067|]
+Mar 23 16:04:51 10.71.61.0 u490724583 open "/img/licgestion/1.jpg" flags READ mode 0666
+Mar 23 16:04:51 10.71.61.0 u490724583 close "/img/licgestion/1.jpg" bytes read 109563 written 0
+Mar 23 16:04:51 10.71.61.0 u490724583 [10.71.61.0|get|0|109563|0|0|0|2f696d672f6c696367657374696f6e2f312e6a7067|]
+Mar 23 16:04:51 10.71.61.0 u490724583 open "/img/licgestion/3.jpg" flags READ mode 0666
+Mar 23 16:04:51 10.71.61.0 u490724583 open "/img/licgestion/subcover.jpg" flags READ mode 0666
+Mar 23 16:04:51 10.71.61.0 u490724583 close "/img/licgestion/3.jpg" bytes read 1196810 written 0
+Mar 23 16:04:51 10.71.61.0 u490724583 [10.71.61.0|get|0|1196810|0|0|0|2f696d672f6c696367657374696f6e2f332e6a7067|]
+Mar 23 16:04:51 10.71.61.0 u490724583 close "/img/licgestion/subcover.jpg" bytes read 937159 written 0
+Mar 23 16:04:51 10.71.61.0 u490724583 [10.71.61.0|get|0|937159|0|0|0|2f696d672f6c696367657374696f6e2f737562636f7665722e6a7067|]
+Mar 23 16:04:51 10.71.61.0 u490724583 open "/img/licgestion/2.jpg" flags READ mode 0666
+Mar 23 16:04:52 10.71.61.0 u490724583 open "/img/licgestion/5.jpg" flags READ mode 0666
+Mar 23 16:04:52 10.71.61.0 u490724583 close "/img/licgestion/2.jpg" bytes read 43794 written 0
+Mar 23 16:04:52 10.71.61.0 u490724583 [10.71.61.0|get|1|43794|0|0|0|2f696d672f6c696367657374696f6e2f322e6a7067|]
+Mar 23 16:04:52 10.71.61.0 u490724583 close "/img/licgestion/5.jpg" bytes read 338690 written 0
+Mar 23 16:04:52 10.71.61.0 u490724583 open "/img/licgestion/mapa.png" flags READ mode 0666
+Mar 23 16:04:52 10.71.61.0 u490724583 [10.71.61.0|get|0|338690|0|0|0|2f696d672f6c696367657374696f6e2f352e6a7067|]
+Mar 23 16:04:52 10.71.61.0 u490724583 close "/img/licgestion/mapa.png" bytes read 107199 written 0
+Mar 23 16:04:52 10.71.61.0 u490724583 open "/img/licgestion/4.jpg" flags READ mode 0666
+Mar 23 16:04:52 10.71.61.0 u490724583 [10.71.61.0|get|0|107199|0|0|0|2f696d672f6c696367657374696f6e2f6d6170612e706e67|]
+Mar 23 16:04:52 10.71.61.0 u490724583 open "/img/licgestion/cover.jpg" flags READ mode 0666
+Mar 23 16:04:52 10.71.61.0 u490724583 close "/img/licgestion/4.jpg" bytes read 435029 written 0
+Mar 23 16:04:52 10.71.61.0 u490724583 [10.71.61.0|get|0|435029|0|0|0|2f696d672f6c696367657374696f6e2f342e6a7067|]
+Mar 23 16:04:53 10.71.61.0 u490724583 close "/img/licgestion/cover.jpg" bytes read 342965 written 0
+Mar 23 16:04:53 10.71.61.0 u490724583 [10.71.61.0|get|1|342965|0|0|0|2f696d672f6c696367657374696f6e2f636f7665722e6a7067|]
+Mar 23 16:04:53 10.71.61.0 u490724583 open "/img/insmusica/1.jpg" flags READ mode 0666
+Mar 23 16:04:53 10.71.61.0 u490724583 close "/img/insmusica/1.jpg" bytes read 817552 written 0
+Mar 23 16:04:53 10.71.61.0 u490724583 [10.71.61.0|get|0|817552|0|0|0|2f696d672f696e736d75736963612f312e6a7067|]
+Mar 23 16:04:53 10.71.61.0 u490724583 open "/img/insmusica/3.jpg" flags READ mode 0666
+Mar 23 16:04:53 10.71.61.0 u490724583 open "/img/insmusica/subcover.jpg" flags READ mode 0666
+Mar 23 16:04:53 10.71.61.0 u490724583 close "/img/insmusica/3.jpg" bytes read 333973 written 0
+Mar 23 16:04:53 10.71.61.0 u490724583 [10.71.61.0|get|0|333973|0|0|0|2f696d672f696e736d75736963612f332e6a7067|]
+Mar 23 16:04:54 10.71.61.0 u490724583 close "/img/insmusica/subcover.jpg" bytes read 62399 written 0
+Mar 23 16:04:54 10.71.61.0 u490724583 [10.71.61.0|get|1|62399|0|0|0|2f696d672f696e736d75736963612f737562636f7665722e6a7067|]
+Mar 23 16:04:54 10.71.61.0 u490724583 open "/img/insmusica/2.jpg" flags READ mode 0666
+Mar 23 16:04:54 10.71.61.0 u490724583 open "/img/insmusica/6.jpg" flags READ mode 0666
+Mar 23 16:04:54 10.71.61.0 u490724583 close "/img/insmusica/2.jpg" bytes read 460684 written 0
+Mar 23 16:04:54 10.71.61.0 u490724583 [10.71.61.0|get|0|460684|0|0|0|2f696d672f696e736d75736963612f322e6a7067|]
+Mar 23 16:04:54 10.71.61.0 u490724583 close "/img/insmusica/6.jpg" bytes read 113725 written 0
+Mar 23 16:04:54 10.71.61.0 u490724583 [10.71.61.0|get|0|113725|0|0|0|2f696d672f696e736d75736963612f362e6a7067|]
+Mar 23 16:04:54 10.71.61.0 u490724583 open "/img/insmusica/7.jpg" flags READ mode 0666
+Mar 23 16:04:54 10.71.61.0 u490724583 open "/img/insmusica/5.jpg" flags READ mode 0666
+Mar 23 16:04:54 10.71.61.0 u490724583 close "/img/insmusica/7.jpg" bytes read 151980 written 0
+Mar 23 16:04:54 10.71.61.0 u490724583 [10.71.61.0|get|0|151980|0|0|0|2f696d672f696e736d75736963612f372e6a7067|]
+Mar 23 16:04:54 10.71.61.0 u490724583 close "/img/insmusica/5.jpg" bytes read 326150 written 0
+Mar 23 16:04:54 10.71.61.0 u490724583 [10.71.61.0|get|0|326150|0|0|0|2f696d672f696e736d75736963612f352e6a7067|]
+Mar 23 16:04:55 10.71.61.0 u490724583 open "/img/insmusica/mapa.png" flags READ mode 0666
+Mar 23 16:04:55 10.71.61.0 u490724583 open "/img/insmusica/4.jpg" flags READ mode 0666
+Mar 23 16:04:55 10.71.61.0 u490724583 close "/img/insmusica/mapa.png" bytes read 71373 written 0
+Mar 23 16:04:55 10.71.61.0 u490724583 [10.71.61.0|get|0|71373|0|0|0|2f696d672f696e736d75736963612f6d6170612e706e67|]
+Mar 23 16:04:55 10.71.61.0 u490724583 close "/img/insmusica/4.jpg" bytes read 789593 written 0
+Mar 23 16:04:55 10.71.61.0 u490724583 [10.71.61.0|get|0|789593|0|0|0|2f696d672f696e736d75736963612f342e6a7067|]
+Mar 23 16:04:55 10.71.61.0 u490724583 open "/img/insmusica/cover.jpg" flags READ mode 0666
+Mar 23 16:04:55 10.71.61.0 u490724583 open "/img/insmusica/10.jpg" flags READ mode 0666
+Mar 23 16:04:55 10.71.61.0 u490724583 close "/img/insmusica/cover.jpg" bytes read 471542 written 0
+Mar 23 16:04:55 10.71.61.0 u490724583 [10.71.61.0|get|0|471542|0|0|0|2f696d672f696e736d75736963612f636f7665722e6a7067|]
+Mar 23 16:04:55 10.71.61.0 u490724583 close "/img/insmusica/10.jpg" bytes read 67539 written 0
+Mar 23 16:04:55 10.71.61.0 u490724583 [10.71.61.0|get|0|67539|0|0|0|2f696d672f696e736d75736963612f31302e6a7067|]
+Mar 23 16:04:55 10.71.61.0 u490724583 open "/img/insmusica/11.jpg" flags READ mode 0666
+Mar 23 16:04:56 10.71.61.0 u490724583 open "/img/insmusica/12.jpg" flags READ mode 0666
+Mar 23 16:04:56 10.71.61.0 u490724583 close "/img/insmusica/11.jpg" bytes read 80186 written 0
+Mar 23 16:04:56 10.71.61.0 u490724583 [10.71.61.0|get|1|80186|0|0|0|2f696d672f696e736d75736963612f31312e6a7067|]
+Mar 23 16:04:56 10.71.61.0 u490724583 close "/img/insmusica/12.jpg" bytes read 92318 written 0
+Mar 23 16:04:56 10.71.61.0 u490724583 [10.71.61.0|get|0|92318|0|0|0|2f696d672f696e736d75736963612f31322e6a7067|]
+Mar 23 16:04:56 10.71.61.0 u490724583 open "/img/insmusica/9.jpg" flags READ mode 0666
+Mar 23 16:04:56 10.71.61.0 u490724583 open "/img/insmusica/8.jpg" flags READ mode 0666
+Mar 23 16:04:56 10.71.61.0 u490724583 close "/img/insmusica/9.jpg" bytes read 80058 written 0
+Mar 23 16:04:56 10.71.61.0 u490724583 [10.71.61.0|get|0|80058|0|0|0|2f696d672f696e736d75736963612f392e6a7067|]
+Mar 23 16:04:56 10.71.61.0 u490724583 close "/img/insmusica/8.jpg" bytes read 70674 written 0
+Mar 23 16:04:56 10.71.61.0 u490724583 [10.71.61.0|get|0|70674|0|0|0|2f696d672f696e736d75736963612f382e6a7067|]
+Mar 23 16:04:57 10.71.61.0 u490724583 open "/img/team/flor.jpg" flags READ mode 0666
+Mar 23 16:04:57 10.71.61.0 u490724583 open "/img/team/abdias.jpg" flags READ mode 0666
+Mar 23 16:04:57 10.71.61.0 u490724583 close "/img/team/flor.jpg" bytes read 12450 written 0
+Mar 23 16:04:57 10.71.61.0 u490724583 [10.71.61.0|get|0|12450|0|0|0|2f696d672f7465616d2f666c6f722e6a7067|]
+Mar 23 16:04:57 10.71.61.0 u490724583 close "/img/team/abdias.jpg" bytes read 12450 written 0
+Mar 23 16:04:57 10.71.61.0 u490724583 [10.71.61.0|get|0|12450|0|0|0|2f696d672f7465616d2f6162646961732e6a7067|]
+Mar 23 16:04:57 10.71.61.0 u490724583 open "/img/team/lourdes.jpg" flags READ mode 0666
+Mar 23 16:04:57 10.71.61.0 u490724583 open "/img/team/liliana.jpg" flags READ mode 0666
+Mar 23 16:04:57 10.71.61.0 u490724583 close "/img/team/lourdes.jpg" bytes read 12450 written 0
+Mar 23 16:04:57 10.71.61.0 u490724583 [10.71.61.0|get|0|12450|0|0|0|2f696d672f7465616d2f6c6f75726465732e6a7067|]
+Mar 23 16:04:57 10.71.61.0 u490724583 close "/img/team/liliana.jpg" bytes read 12450 written 0
+Mar 23 16:04:57 10.71.61.0 u490724583 [10.71.61.0|get|0|12450|0|0|0|2f696d672f7465616d2f6c696c69616e612e6a7067|]
+Mar 23 16:04:58 10.71.61.0 u490724583 open "/img/maestriagestion/1.jpg" flags READ mode 0666
+Mar 23 16:04:58 10.71.61.0 u490724583 open "/img/maestriagestion/3.jpg" flags READ mode 0666
+Mar 23 16:04:58 10.71.61.0 u490724583 close "/img/maestriagestion/1.jpg" bytes read 167501 written 0
+Mar 23 16:04:58 10.71.61.0 u490724583 [10.71.61.0|get|0|167501|0|0|0|2f696d672f6d6165737472696167657374696f6e2f312e6a7067|]
+Mar 23 16:04:58 10.71.61.0 u490724583 close "/img/maestriagestion/3.jpg" bytes read 175963 written 0
+Mar 23 16:04:58 10.71.61.0 u490724583 [10.71.61.0|get|0|175963|0|0|0|2f696d672f6d6165737472696167657374696f6e2f332e6a7067|]
+Mar 23 16:04:58 10.71.61.0 u490724583 open "/img/maestriagestion/subcover.jpg" flags READ mode 0666
+Mar 23 16:04:58 10.71.61.0 u490724583 open "/img/maestriagestion/2.jpg" flags READ mode 0666
+Mar 23 16:04:58 10.71.61.0 u490724583 close "/img/maestriagestion/subcover.jpg" bytes read 1664312 written 0
+Mar 23 16:04:58 10.71.61.0 u490724583 [10.71.61.0|get|0|1664312|0|0|0|2f696d672f6d6165737472696167657374696f6e2f737562636f7665722e6a7067|]
+Mar 23 16:04:59 10.71.61.0 u490724583 close "/img/maestriagestion/2.jpg" bytes read 194909 written 0
+Mar 23 16:04:59 10.71.61.0 u490724583 [10.71.61.0|get|1|194909|0|0|0|2f696d672f6d6165737472696167657374696f6e2f322e6a7067|]
+Mar 23 16:04:59 10.71.61.0 u490724583 open "/img/maestriagestion/6.jpg" flags READ mode 0666
+Mar 23 16:04:59 10.71.61.0 u490724583 open "/img/maestriagestion/7.jpg" flags READ mode 0666
+Mar 23 16:04:59 10.71.61.0 u490724583 close "/img/maestriagestion/6.jpg" bytes read 159333 written 0
+Mar 23 16:04:59 10.71.61.0 u490724583 [10.71.61.0|get|0|159333|0|0|0|2f696d672f6d6165737472696167657374696f6e2f362e6a7067|]
+Mar 23 16:04:59 10.71.61.0 u490724583 close "/img/maestriagestion/7.jpg" bytes read 219437 written 0
+Mar 23 16:04:59 10.71.61.0 u490724583 [10.71.61.0|get|0|219437|0|0|0|2f696d672f6d6165737472696167657374696f6e2f372e6a7067|]
+Mar 23 16:04:59 10.71.61.0 u490724583 open "/img/maestriagestion/5.jpg" flags READ mode 0666
+Mar 23 16:04:59 10.71.61.0 u490724583 open "/img/maestriagestion/mapa.png" flags READ mode 0666
+Mar 23 16:04:59 10.71.61.0 u490724583 close "/img/maestriagestion/5.jpg" bytes read 235770 written 0
+Mar 23 16:04:59 10.71.61.0 u490724583 [10.71.61.0|get|0|235770|0|0|0|2f696d672f6d6165737472696167657374696f6e2f352e6a7067|]
+Mar 23 16:05:00 10.71.61.0 u490724583 close "/img/maestriagestion/mapa.png" bytes read 69733 written 0
+Mar 23 16:05:00 10.71.61.0 u490724583 [10.71.61.0|get|1|69733|0|0|0|2f696d672f6d6165737472696167657374696f6e2f6d6170612e706e67|]
+Mar 23 16:05:00 10.71.61.0 u490724583 open "/img/maestriagestion/4.jpg" flags READ mode 0666
+Mar 23 16:05:00 10.71.61.0 u490724583 open "/img/maestriagestion/cover.png" flags READ mode 0666
+Mar 23 16:05:00 10.71.61.0 u490724583 close "/img/maestriagestion/4.jpg" bytes read 139921 written 0
+Mar 23 16:05:00 10.71.61.0 u490724583 [10.71.61.0|get|0|139921|0|0|0|2f696d672f6d6165737472696167657374696f6e2f342e6a7067|]
+Mar 23 16:05:00 10.71.61.0 u490724583 close "/img/maestriagestion/cover.png" bytes read 135518 written 0
+Mar 23 16:05:00 10.71.61.0 u490724583 [10.71.61.0|get|0|135518|0|0|0|2f696d672f6d6165737472696167657374696f6e2f636f7665722e706e67|]
+Mar 23 16:05:00 10.71.61.0 u490724583 open "/img/maestriagestion/mini.jpg" flags READ mode 0666
+Mar 23 16:05:00 10.71.61.0 u490724583 open "/img/maestriagestion/8.jpg" flags READ mode 0666
+Mar 23 16:05:00 10.71.61.0 u490724583 close "/img/maestriagestion/mini.jpg" bytes read 167501 written 0
+Mar 23 16:05:00 10.71.61.0 u490724583 [10.71.61.0|get|0|167501|0|0|0|2f696d672f6d6165737472696167657374696f6e2f6d696e692e6a7067|]
+Mar 23 16:05:00 10.71.61.0 u490724583 close "/img/maestriagestion/8.jpg" bytes read 153954 written 0
+Mar 23 16:05:00 10.71.61.0 u490724583 [10.71.61.0|get|0|153954|0|0|0|2f696d672f6d6165737472696167657374696f6e2f382e6a7067|]
+Mar 23 16:05:01 10.71.61.0 u490724583 open "/img/licmusica/1.jpg" flags READ mode 0666
+Mar 23 16:05:01 10.71.61.0 u490724583 open "/img/licmusica/3.jpg" flags READ mode 0666
+Mar 23 16:05:01 10.71.61.0 u490724583 close "/img/licmusica/1.jpg" bytes read 440612 written 0
+Mar 23 16:05:01 10.71.61.0 u490724583 [10.71.61.0|get|0|440612|0|0|0|2f696d672f6c69636d75736963612f312e6a7067|]
+Mar 23 16:05:01 10.71.61.0 u490724583 close "/img/licmusica/3.jpg" bytes read 362991 written 0
+Mar 23 16:05:01 10.71.61.0 u490724583 [10.71.61.0|get|0|362991|0|0|0|2f696d672f6c69636d75736963612f332e6a7067|]
+Mar 23 16:05:01 10.71.61.0 u490724583 open "/img/licmusica/subcover.jpg" flags READ mode 0666
+Mar 23 16:05:01 10.71.61.0 u490724583 open "/img/licmusica/2.jpg" flags READ mode 0666
+Mar 23 16:05:02 10.71.61.0 u490724583 close "/img/licmusica/subcover.jpg" bytes read 340165 written 0
+Mar 23 16:05:02 10.71.61.0 u490724583 [10.71.61.0|get|1|340165|0|0|0|2f696d672f6c69636d75736963612f737562636f7665722e6a7067|]
+Mar 23 16:05:02 10.71.61.0 u490724583 close "/img/licmusica/2.jpg" bytes read 471542 written 0
+Mar 23 16:05:02 10.71.61.0 u490724583 [10.71.61.0|get|1|471542|0|0|0|2f696d672f6c69636d75736963612f322e6a7067|]
+Mar 23 16:05:02 10.71.61.0 u490724583 open "/img/licmusica/6.jpg" flags READ mode 0666
+Mar 23 16:05:02 10.71.61.0 u490724583 open "/img/licmusica/7.jpg" flags READ mode 0666
+Mar 23 16:05:02 10.71.61.0 u490724583 close "/img/licmusica/6.jpg" bytes read 420607 written 0
+Mar 23 16:05:02 10.71.61.0 u490724583 [10.71.61.0|get|0|420607|0|0|0|2f696d672f6c69636d75736963612f362e6a7067|]
+Mar 23 16:05:02 10.71.61.0 u490724583 close "/img/licmusica/7.jpg" bytes read 553499 written 0
+Mar 23 16:05:02 10.71.61.0 u490724583 [10.71.61.0|get|0|553499|0|0|0|2f696d672f6c69636d75736963612f372e6a7067|]
+Mar 23 16:05:02 10.71.61.0 u490724583 open "/img/licmusica/5.jpg" flags READ mode 0666
+Mar 23 16:05:02 10.71.61.0 u490724583 open "/img/licmusica/mapa.png" flags READ mode 0666
+Mar 23 16:05:03 10.71.61.0 u490724583 close "/img/licmusica/5.jpg" bytes read 303937 written 0
+Mar 23 16:05:03 10.71.61.0 u490724583 [10.71.61.0|get|1|303937|0|0|0|2f696d672f6c69636d75736963612f352e6a7067|]
+Mar 23 16:05:03 10.71.61.0 u490724583 close "/img/licmusica/mapa.png" bytes read 188829 written 0
+Mar 23 16:05:03 10.71.61.0 u490724583 [10.71.61.0|get|1|188829|0|0|0|2f696d672f6c69636d75736963612f6d6170612e706e67|]
+Mar 23 16:05:03 10.71.61.0 u490724583 open "/img/licmusica/4.jpg" flags READ mode 0666
+Mar 23 16:05:03 10.71.61.0 u490724583 open "/img/licmusica/cover.jpg" flags READ mode 0666
+Mar 23 16:05:03 10.71.61.0 u490724583 close "/img/licmusica/4.jpg" bytes read 408945 written 0
+Mar 23 16:05:03 10.71.61.0 u490724583 [10.71.61.0|get|0|408945|0|0|0|2f696d672f6c69636d75736963612f342e6a7067|]
+Mar 23 16:05:03 10.71.61.0 u490724583 close "/img/licmusica/cover.jpg" bytes read 176686 written 0
+Mar 23 16:05:03 10.71.61.0 u490724583 [10.71.61.0|get|0|176686|0|0|0|2f696d672f6c69636d75736963612f636f7665722e6a7067|]
+Mar 23 16:05:03 10.71.61.0 u490724583 open "/img/licmusica/10.jpg" flags READ mode 0666
+Mar 23 16:05:03 10.71.61.0 u490724583 open "/img/licmusica/11.jpg" flags READ mode 0666
+Mar 23 16:05:03 10.71.61.0 u490724583 close "/img/licmusica/10.jpg" bytes read 185997 written 0
+Mar 23 16:05:03 10.71.61.0 u490724583 [10.71.61.0|get|0|185997|0|0|0|2f696d672f6c69636d75736963612f31302e6a7067|]
+Mar 23 16:05:03 10.71.61.0 u490724583 close "/img/licmusica/11.jpg" bytes read 290452 written 0
+Mar 23 16:05:03 10.71.61.0 u490724583 [10.71.61.0|get|0|290452|0|0|0|2f696d672f6c69636d75736963612f31312e6a7067|]
+Mar 23 16:05:04 10.71.61.0 u490724583 open "/img/licmusica/13.jpg" flags READ mode 0666
+Mar 23 16:05:04 10.71.61.0 u490724583 open "/img/licmusica/educacion.jpg" flags READ mode 0666
+Mar 23 16:05:04 10.71.61.0 u490724583 close "/img/licmusica/13.jpg" bytes read 381514 written 0
+Mar 23 16:05:04 10.71.61.0 u490724583 [10.71.61.0|get|0|381514|0|0|0|2f696d672f6c69636d75736963612f31332e6a7067|]
+Mar 23 16:05:04 10.71.61.0 u490724583 close "/img/licmusica/educacion.jpg" bytes read 3114886 written 0
+Mar 23 16:05:04 10.71.61.0 u490724583 [10.71.61.0|get|0|3114886|0|0|0|2f696d672f6c69636d75736963612f656475636163696f6e2e6a7067|]
+Mar 23 16:05:04 10.71.61.0 u490724583 open "/img/licmusica/12.jpg" flags READ mode 0666
+Mar 23 16:05:04 10.71.61.0 u490724583 open "/img/licmusica/16.jpg" flags READ mode 0666
+Mar 23 16:05:04 10.71.61.0 u490724583 close "/img/licmusica/12.jpg" bytes read 247497 written 0
+Mar 23 16:05:04 10.71.61.0 u490724583 [10.71.61.0|get|0|247497|0|0|0|2f696d672f6c69636d75736963612f31322e6a7067|]
+Mar 23 16:05:04 10.71.61.0 u490724583 close "/img/licmusica/16.jpg" bytes read 121028 written 0
+Mar 23 16:05:04 10.71.61.0 u490724583 [10.71.61.0|get|0|121028|0|0|0|2f696d672f6c69636d75736963612f31362e6a7067|]
+Mar 23 16:05:05 10.71.61.0 u490724583 open "/img/licmusica/interpretacion.jpg" flags READ mode 0666
+Mar 23 16:05:05 10.71.61.0 u490724583 open "/img/licmusica/15.jpg" flags READ mode 0666
+Mar 23 16:05:05 10.71.61.0 u490724583 close "/img/licmusica/interpretacion.jpg" bytes read 1596137 written 0
+Mar 23 16:05:05 10.71.61.0 u490724583 [10.71.61.0|get|0|1596137|0|0|0|2f696d672f6c69636d75736963612f696e746572707265746163696f6e2e6a7067|]
+Mar 23 16:05:05 10.71.61.0 u490724583 close "/img/licmusica/15.jpg" bytes read 73907 written 0
+Mar 23 16:05:05 10.71.61.0 u490724583 [10.71.61.0|get|0|73907|0|0|0|2f696d672f6c69636d75736963612f31352e6a7067|]
+Mar 23 16:05:05 10.71.61.0 u490724583 open "/img/licmusica/orquesta.jpg" flags READ mode 0666
+Mar 23 16:05:05 10.71.61.0 u490724583 open "/img/licmusica/14.jpg" flags READ mode 0666
+Mar 23 16:05:05 10.71.61.0 u490724583 close "/img/licmusica/14.jpg" bytes read 175074 written 0
+Mar 23 16:05:05 10.71.61.0 u490724583 close "/img/licmusica/orquesta.jpg" bytes read 929883 written 0
+Mar 23 16:05:05 10.71.61.0 u490724583 [10.71.61.0|get|0|175074|0|0|0|2f696d672f6c69636d75736963612f31342e6a7067|]
+Mar 23 16:05:05 10.71.61.0 u490724583 [10.71.61.0|get|0|929883|0|0|0|2f696d672f6c69636d75736963612f6f727175657374612e6a7067|]
+Mar 23 16:05:06 10.71.61.0 u490724583 open "/img/licmusica/9.jpg" flags READ mode 0666
+Mar 23 16:05:06 10.71.61.0 u490724583 open "/img/licmusica/8.jpg" flags READ mode 0666
+Mar 23 16:05:06 10.71.61.0 u490724583 close "/img/licmusica/9.jpg" bytes read 464637 written 0
+Mar 23 16:05:06 10.71.61.0 u490724583 close "/img/licmusica/8.jpg" bytes read 450359 written 0
+Mar 23 16:05:06 10.71.61.0 u490724583 [10.71.61.0|get|0|464637|0|0|0|2f696d672f6c69636d75736963612f392e6a7067|]
+Mar 23 16:05:06 10.71.61.0 u490724583 [10.71.61.0|get|0|450359|0|0|0|2f696d672f6c69636d75736963612f382e6a7067|]
+Mar 23 16:05:06 10.71.61.0 u490724583 open "/img/licmusica/composicion.jpg" flags READ mode 0666
+Mar 23 16:05:06 10.71.61.0 u490724583 open "/img/icon/fba.png" flags READ mode 0666
+Mar 23 16:05:06 10.71.61.0 u490724583 close "/img/licmusica/composicion.jpg" bytes read 1133890 written 0
+Mar 23 16:05:06 10.71.61.0 u490724583 [10.71.61.0|get|0|1133890|0|0|0|2f696d672f6c69636d75736963612f636f6d706f736963696f6e2e6a7067|]
+Mar 23 16:05:07 10.71.61.0 u490724583 close "/img/icon/fba.png" bytes read 10492 written 0
+Mar 23 16:05:07 10.71.61.0 u490724583 [10.71.61.0|get|1|10492|0|0|0|2f696d672f69636f6e2f6662612e706e67|]
+Mar 23 16:05:07 10.71.61.0 u490724583 open "/js/lightbox.min.js" flags READ mode 0666
+Mar 23 16:05:07 10.71.61.0 u490724583 close "/js/lightbox.min.js" bytes read 7763 written 0
+Mar 23 16:05:07 10.71.61.0 u490724583 [10.71.61.0|get|0|7763|0|0|0|2f6a732f6c69676874626f782e6d696e2e6a73|]
+Mar 23 16:05:07 10.71.61.0 u490724583 open "/js/smooth-scroll.min.js" flags READ mode 0666
+Mar 23 16:05:07 10.71.61.0 u490724583 open "/js/flexslider.min.js" flags READ mode 0666
+Mar 23 16:05:07 10.71.61.0 u490724583 close "/js/smooth-scroll.min.js" bytes read 6001 written 0
+Mar 23 16:05:07 10.71.61.0 u490724583 [10.71.61.0|get|0|6001|0|0|0|2f6a732f736d6f6f74682d7363726f6c6c2e6d696e2e6a73|]
+Mar 23 16:05:08 10.71.61.0 u490724583 close "/js/flexslider.min.js" bytes read 21675 written 0
+Mar 23 16:05:08 10.71.61.0 u490724583 [10.71.61.0|get|1|21675|0|0|0|2f6a732f666c6578736c696465722e6d696e2e6a73|]
+Mar 23 16:05:08 10.71.61.0 u490724583 open "/js/scripts.js" flags READ mode 0666
+Mar 23 16:05:08 10.71.61.0 u490724583 open "/js/ytplayer.min.js" flags READ mode 0666
+Mar 23 16:05:08 10.71.61.0 u490724583 close "/js/scripts.js" bytes read 52979 written 0
+Mar 23 16:05:08 10.71.61.0 u490724583 [10.71.61.0|get|0|52979|0|0|0|2f6a732f736372697074732e6a73|]
+Mar 23 16:05:08 10.71.61.0 u490724583 open "/js/bootstrap.min.js" flags READ mode 0666
+Mar 23 16:05:08 10.71.61.0 u490724583 close "/js/ytplayer.min.js" bytes read 32032 written 0
+Mar 23 16:05:08 10.71.61.0 u490724583 [10.71.61.0|get|0|32032|0|0|0|2f6a732f7974706c617965722e6d696e2e6a73|]
+Mar 23 16:05:08 10.71.61.0 u490724583 open "/js/jquery.min.js" flags READ mode 0666
+Mar 23 16:05:08 10.71.61.0 u490724583 close "/js/bootstrap.min.js" bytes read 36816 written 0
+Mar 23 16:05:08 10.71.61.0 u490724583 [10.71.61.0|get|0|36816|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Mar 23 16:05:09 10.71.61.0 u490724583 open "/js/countdown.min.js" flags READ mode 0666
+Mar 23 16:05:09 10.71.61.0 u490724583 close "/js/jquery.min.js" bytes read 95786 written 0
+Mar 23 16:05:09 10.71.61.0 u490724583 [10.71.61.0|get|1|95786|0|0|0|2f6a732f6a71756572792e6d696e2e6a73|]
+Mar 23 16:05:09 10.71.61.0 u490724583 open "/js/spectragram.min.js" flags READ mode 0666
+Mar 23 16:05:09 10.71.61.0 u490724583 close "/js/countdown.min.js" bytes read 4708 written 0
+Mar 23 16:05:09 10.71.61.0 u490724583 [10.71.61.0|get|0|4708|0|0|0|2f6a732f636f756e74646f776e2e6d696e2e6a73|]
+Mar 23 16:05:09 10.71.61.0 u490724583 open "/js/bootstrap.js" flags READ mode 0666
+Mar 23 16:05:09 10.71.61.0 u490724583 close "/js/spectragram.min.js" bytes read 4203 written 0
+Mar 23 16:05:09 10.71.61.0 u490724583 [10.71.61.0|get|0|4203|0|0|0|2f6a732f737065637472616772616d2e6d696e2e6a73|]
+Mar 23 16:05:09 10.71.61.0 u490724583 open "/js/flickr.js" flags READ mode 0666
+Mar 23 16:05:09 10.71.61.0 u490724583 close "/js/bootstrap.js" bytes read 68890 written 0
+Mar 23 16:05:09 10.71.61.0 u490724583 [10.71.61.0|get|0|68890|0|0|0|2f6a732f626f6f7473747261702e6a73|]
+Mar 23 16:05:09 10.71.61.0 u490724583 close "/js/flickr.js" bytes read 1266 written 0
+Mar 23 16:05:09 10.71.61.0 u490724583 [10.71.61.0|get|0|1266|0|0|0|2f6a732f666c69636b722e6a73|]
+Mar 23 16:05:09 10.71.61.0 u490724583 open "/js/parallax.js" flags READ mode 0666
+Mar 23 16:05:10 10.71.61.0 u490724583 open "/js/masonry.min.js" flags READ mode 0666
+Mar 23 16:05:10 10.71.61.0 u490724583 close "/js/parallax.js" bytes read 4845 written 0
+Mar 23 16:05:10 10.71.61.0 u490724583 [10.71.61.0|get|1|4845|0|0|0|2f6a732f706172616c6c61782e6a73|]
+Mar 23 16:05:10 10.71.61.0 u490724583 close "/js/masonry.min.js" bytes read 26179 written 0
+Mar 23 16:05:10 10.71.61.0 u490724583 [10.71.61.0|get|0|26179|0|0|0|2f6a732f6d61736f6e72792e6d696e2e6a73|]
+Mar 23 16:05:10 10.71.61.0 u490724583 open "/js/twitterfetcher.min.js" flags READ mode 0666
+Mar 23 16:05:10 10.71.61.0 u490724583 close "/js/twitterfetcher.min.js" bytes read 10454 written 0
+Mar 23 16:05:10 10.71.61.0 u490724583 [10.71.61.0|get|0|10454|0|0|0|2f6a732f74776974746572666574636865722e6d696e2e6a73|]
+Mar 23 16:05:10 10.71.61.0 u490724583 open "/logs/access.log.11.6.gz" flags READ mode 0666
+Mar 23 16:05:11 10.71.61.0 u490724583 close "/logs/access.log.11.6.gz" bytes read 16129 written 0
+Mar 23 16:05:11 10.71.61.0 u490724583 [10.71.61.0|get|1|16129|0|0|0|2f6c6f67732f6163636573732e6c6f672e31312e362e677a|]
+Mar 23 16:05:11 10.71.61.0 u490724583 open "/logs/access.log.11.3.gz" flags READ mode 0666
+Mar 23 16:05:11 10.71.61.0 u490724583 open "/logs/access.log.12.3.gz" flags READ mode 0666
+Mar 23 16:05:11 10.71.61.0 u490724583 close "/logs/access.log.11.3.gz" bytes read 21185 written 0
+Mar 23 16:05:11 10.71.61.0 u490724583 [10.71.61.0|get|0|21185|0|0|0|2f6c6f67732f6163636573732e6c6f672e31312e332e677a|]
+Mar 23 16:05:11 10.71.61.0 u490724583 close "/logs/access.log.12.3.gz" bytes read 26713 written 0
+Mar 23 16:05:11 10.71.61.0 u490724583 [10.71.61.0|get|0|26713|0|0|0|2f6c6f67732f6163636573732e6c6f672e31322e332e677a|]
+Mar 23 16:05:11 10.71.61.0 u490724583 open "/logs/access.log.12.2.gz" flags READ mode 0666
+Mar 23 16:05:11 10.71.61.0 u490724583 open "/logs/access.log.05.gz" flags READ mode 0666
+Mar 23 16:05:11 10.71.61.0 u490724583 close "/logs/access.log.12.2.gz" bytes read 23849 written 0
+Mar 23 16:05:11 10.71.61.0 u490724583 [10.71.61.0|get|0|23849|0|0|0|2f6c6f67732f6163636573732e6c6f672e31322e322e677a|]
+Mar 23 16:05:12 10.71.61.0 u490724583 close "/logs/access.log.05.gz" bytes read 141456 written 0
+Mar 23 16:05:12 10.71.61.0 u490724583 open "/logs/sftp.log" flags READ mode 0666
+Mar 23 16:05:12 10.71.61.0 u490724583 [10.71.61.0|get|1|141456|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e677a|]
